@@ -1,0 +1,6256 @@
+WEBVTT Kind: captions; Language: en-US
+
+NOTE
+Created on 2021-02-26T23:55:44.3128060Z by ClassTranscribe
+
+00:06:10.510 --> 00:06:11.750
+Hello how's it going?
+
+00:06:15.230 --> 00:06:16.740
+Everybody has joined early.
+
+00:06:17.360 --> 00:06:18.750
+I want to be setting up my adjusting
+
+00:06:18.750 --> 00:06:19.200
+things.
+
+00:06:19.200 --> 00:06:20.740
+Looks like my lighting is terrible.
+
+00:12:21.720 --> 00:12:23.190
+Hello and welcome everybody.
+
+00:14:49.590 --> 00:14:53.100
+Welcome everybody to CS-450 were also
+
+00:14:53.100 --> 00:14:54.940
+crossed the certain number of other
+
+00:14:54.940 --> 00:14:55.960
+departments.
+
+00:15:06.760 --> 00:15:09.020
+Yeah, so today I want to go through
+
+00:15:09.020 --> 00:15:10.550
+some administrative things to tell you
+
+00:15:10.550 --> 00:15:12.190
+a little bit about the course as well
+
+00:15:12.190 --> 00:15:15.010
+as get started with the first lecture.
+
+00:15:15.010 --> 00:15:16.350
+Please let me know if there is any
+
+00:15:16.350 --> 00:15:18.090
+technical issues in terms of hearing me
+
+00:15:18.090 --> 00:15:19.030
+or otherwise.
+
+00:15:19.580 --> 00:15:20.930
+Guarantee that there will be lots of
+
+00:15:20.930 --> 00:15:21.800
+technical issues throughout the
+
+00:15:21.800 --> 00:15:22.270
+semester.
+
+00:15:25.070 --> 00:15:27.940
+But will try to do our best to deliver
+
+00:15:27.940 --> 00:15:31.570
+the course as it is kind of usually OK.
+
+00:15:31.570 --> 00:15:33.740
+Let me start by perhaps sharing screen
+
+00:15:33.740 --> 00:15:35.900
+and taking you through a little bit of
+
+00:15:35.900 --> 00:15:36.700
+the web page.
+
+00:15:37.280 --> 00:15:40.055
+I am telling you a bit about the
+
+00:15:40.055 --> 00:15:43.000
+course, so this is the relate webpage.
+
+00:15:43.000 --> 00:15:48.410
+So relate is a course web system design
+
+00:15:48.410 --> 00:15:50.590
+primarily by Andreas Kloeckner, who is
+
+00:15:50.590 --> 00:15:52.680
+a set of computing faculty here in
+
+00:15:52.680 --> 00:15:55.068
+computer science, and it's it was
+
+00:15:55.068 --> 00:15:56.760
+designed with kind of actually numerics
+
+00:15:56.760 --> 00:15:57.570
+courses in mind.
+
+00:15:57.570 --> 00:15:59.105
+So it was designed for this type of
+
+00:15:59.105 --> 00:16:00.614
+course, and it's extremely convenient,
+
+00:16:00.614 --> 00:16:03.050
+so all of the assignments will be doing
+
+00:16:03.050 --> 00:16:05.860
+and actually even your exams will be
+
+00:16:05.860 --> 00:16:07.490
+through relate and all information.
+
+00:16:07.540 --> 00:16:09.730
+Will be posted here so I see someone
+
+00:16:09.730 --> 00:16:11.150
+more taps here because I'm going to
+
+00:16:11.150 --> 00:16:12.020
+structure then you guys do.
+
+00:16:12.020 --> 00:16:13.330
+You should see like participant in
+
+00:16:13.330 --> 00:16:13.860
+grading.
+
+00:16:13.860 --> 00:16:17.260
+Maybe probably not content but
+
+00:16:17.260 --> 00:16:17.690
+innocence.
+
+00:16:17.690 --> 00:16:21.890
+All assignments will be here and OK.
+
+00:16:21.890 --> 00:16:23.380
+Let me return to the types of
+
+00:16:23.380 --> 00:16:23.610
+assignments.
+
+00:16:23.610 --> 00:16:26.040
+Will have the other thing you want to
+
+00:16:26.040 --> 00:16:28.260
+definitely make use of this piaza and
+
+00:16:28.260 --> 00:16:30.360
+some things will be will be actually
+
+00:16:30.360 --> 00:16:31.310
+another computer.
+
+00:16:31.310 --> 00:16:32.420
+For example, for example.
+
+00:16:32.420 --> 00:16:33.710
+Typically when like exam grades come
+
+00:16:33.710 --> 00:16:35.540
+out, that's analysen Piazza.
+
+00:16:36.120 --> 00:16:36.840
+
+
+00:16:37.410 --> 00:16:39.180
+So keep an eye out on and also any
+
+00:16:39.180 --> 00:16:40.920
+questions you have please post there
+
+00:16:40.920 --> 00:16:42.650
+including my questions for core staff
+
+00:16:42.650 --> 00:16:44.450
+that are kind of personal, such as if
+
+00:16:44.450 --> 00:16:45.870
+you want an exception for something.
+
+00:16:45.870 --> 00:16:48.650
+I would encourage you to use Piazza
+
+00:16:48.650 --> 00:16:51.380
+private messages for and send it to all
+
+00:16:51.380 --> 00:16:53.680
+instructors, not just to me, so that GS
+
+00:16:53.680 --> 00:16:54.800
+might also be able to help out with
+
+00:16:54.800 --> 00:16:55.440
+your request.
+
+00:16:57.130 --> 00:17:00.140
+Yeah, so kind of process is better than
+
+00:17:00.140 --> 00:17:00.570
+email.
+
+00:17:00.570 --> 00:17:01.810
+Essentially in all cases because it
+
+00:17:01.810 --> 00:17:03.630
+gives us a centralized way to keep
+
+00:17:03.630 --> 00:17:04.912
+track of questions.
+
+00:17:04.912 --> 00:17:06.510
+And while private questions are good
+
+00:17:06.510 --> 00:17:08.240
+for kind of personal things, I would
+
+00:17:08.240 --> 00:17:10.689
+encourage you to ask questions kind of
+
+00:17:10.690 --> 00:17:14.315
+publicly and so that other students can
+
+00:17:14.315 --> 00:17:17.730
+also answer and also see answers if
+
+00:17:17.730 --> 00:17:19.330
+you're actually asking about technical
+
+00:17:19.330 --> 00:17:19.645
+content.
+
+00:17:19.645 --> 00:17:21.990
+So whether it be about the lectures or
+
+00:17:21.990 --> 00:17:23.110
+about a homework quiz.
+
+00:17:25.160 --> 00:17:26.680
+Courage to make it kind of a public
+
+00:17:26.680 --> 00:17:27.320
+question.
+
+00:17:27.320 --> 00:17:29.710
+You generally shouldn't actually share
+
+00:17:29.710 --> 00:17:32.267
+like your code, period, so we're kind
+
+00:17:32.267 --> 00:17:34.326
+of ask for such specific help, but
+
+00:17:34.326 --> 00:17:37.010
+we're generally going to be kind of
+
+00:17:37.010 --> 00:17:38.910
+happy to give you feedback and hints on
+
+00:17:38.910 --> 00:17:40.830
+questions and stuff like that, provided
+
+00:17:40.830 --> 00:17:43.180
+that the question kind of shows some
+
+00:17:43.180 --> 00:17:43.950
+level understanding.
+
+00:17:45.590 --> 00:17:48.765
+So in terms of the course, so it's kind
+
+00:17:48.765 --> 00:17:50.720
+of structured into chapters which are
+
+00:17:50.720 --> 00:17:53.170
+derived from a book by Mike Heath.
+
+00:17:53.170 --> 00:17:55.640
+My Keith is a professor emeritus here,
+
+00:17:55.640 --> 00:17:58.760
+and Mike is kind of responsible for the
+
+00:17:58.760 --> 00:18:01.300
+original design of the course, as well
+
+00:18:01.300 --> 00:18:04.190
+as having having written a textbook and
+
+00:18:04.190 --> 00:18:06.090
+lecture notes for this course.
+
+00:18:07.370 --> 00:18:09.930
+So I actually my day learned took this
+
+00:18:09.930 --> 00:18:11.560
+course as an undergraduate here and
+
+00:18:11.560 --> 00:18:13.080
+kind of learn much of it through Mikes
+
+00:18:13.080 --> 00:18:14.150
+notes.
+
+00:18:14.150 --> 00:18:15.920
+That didn't stop me, however, from once
+
+00:18:15.920 --> 00:18:18.110
+I got here of creating my own notes,
+
+00:18:18.110 --> 00:18:20.020
+which are a bit different, in large
+
+00:18:20.020 --> 00:18:20.680
+part because.
+
+00:18:21.650 --> 00:18:22.560
+Kind of both.
+
+00:18:23.640 --> 00:18:25.270
+One way I try to lecture is by actually
+
+00:18:25.270 --> 00:18:26.810
+writing things out as opposed to
+
+00:18:26.810 --> 00:18:29.500
+working with slides in the background.
+
+00:18:29.500 --> 00:18:31.930
+And this is this kind of forces things
+
+00:18:31.930 --> 00:18:33.760
+to go a little slower as well as gives
+
+00:18:33.760 --> 00:18:36.060
+time to kind of show derivations which
+
+00:18:36.060 --> 00:18:37.380
+are very difficult to understand from a
+
+00:18:37.380 --> 00:18:37.760
+slide.
+
+00:18:37.760 --> 00:18:39.820
+My lecture notes also include some
+
+00:18:39.820 --> 00:18:41.500
+additional things, although the Mikes
+
+00:18:41.500 --> 00:18:43.020
+notes will include things that might do
+
+00:18:43.020 --> 00:18:45.310
+not give you just a quick example,
+
+00:18:45.310 --> 00:18:45.800
+let's see.
+
+00:18:47.710 --> 00:18:51.489
+These are my case notes and they
+
+00:18:51.490 --> 00:18:53.910
+essentially you can read this almost
+
+00:18:53.910 --> 00:18:54.496
+like a textbook.
+
+00:18:54.496 --> 00:18:56.910
+So kind of there quite complete and I'm
+
+00:18:56.910 --> 00:18:58.820
+very precise and they contain basically
+
+00:18:58.820 --> 00:19:02.090
+no mistakes, so I iterations of
+
+00:19:02.090 --> 00:19:02.770
+teaching this course.
+
+00:19:02.770 --> 00:19:04.555
+Nobody has reported mistakenly slides.
+
+00:19:04.555 --> 00:19:06.380
+My slides will certainly contain some
+
+00:19:06.380 --> 00:19:07.580
+mistakes because they're relatively
+
+00:19:07.580 --> 00:19:10.290
+new, but these have kind of seen many
+
+00:19:10.290 --> 00:19:13.220
+rounds of many iterations of the
+
+00:19:13.220 --> 00:19:14.990
+course, so there are well developed,
+
+00:19:14.990 --> 00:19:16.060
+very well organized.
+
+00:19:18.980 --> 00:19:20.230
+And a great reference.
+
+00:19:21.910 --> 00:19:24.810
+My notes provide some kind of
+
+00:19:24.810 --> 00:19:26.060
+additional stuff, and they're also just
+
+00:19:26.060 --> 00:19:26.889
+different, so it's a different
+
+00:19:26.890 --> 00:19:28.520
+perspective on many of the same things,
+
+00:19:28.520 --> 00:19:31.580
+and in some cases I made use of what
+
+00:19:31.580 --> 00:19:33.290
+Mike actually has in his sights.
+
+00:19:33.290 --> 00:19:34.930
+For example, he has a background very
+
+00:19:34.930 --> 00:19:36.850
+similar to this, while in other cases
+
+00:19:36.850 --> 00:19:37.930
+I'll actually have insights and
+
+00:19:37.930 --> 00:19:40.010
+analysis that Mike doesn't cover.
+
+00:19:40.870 --> 00:19:43.320
+But the topics are actually fairly well
+
+00:19:43.320 --> 00:19:45.375
+defined and aren't too different, and
+
+00:19:45.375 --> 00:19:47.310
+in fact you can also find lecture notes
+
+00:19:47.310 --> 00:19:48.470
+from previous instructors for the
+
+00:19:48.470 --> 00:19:48.980
+course.
+
+00:19:48.980 --> 00:19:50.510
+So Andreas Klockner in particular has
+
+00:19:50.510 --> 00:19:52.156
+developed his own set of notes as well,
+
+00:19:52.156 --> 00:19:55.050
+and so if you want multiple, I would
+
+00:19:55.050 --> 00:19:56.720
+encourage you to look at all of those.
+
+00:19:56.720 --> 00:19:59.480
+You might also be able to find videos
+
+00:19:59.480 --> 00:20:00.060
+of.
+
+00:20:01.800 --> 00:20:04.720
+Lectures by Andreas and possibly by
+
+00:20:04.720 --> 00:20:06.340
+Mike, but I'm not sure actually about
+
+00:20:06.340 --> 00:20:08.970
+how widely available letters of
+
+00:20:08.970 --> 00:20:10.360
+previous iterations of the course.
+
+00:20:10.360 --> 00:20:12.486
+If you're interested in kind of
+
+00:20:12.486 --> 00:20:13.760
+actually following a different
+
+00:20:13.760 --> 00:20:15.920
+structure through the same content.
+
+00:20:17.220 --> 00:20:19.460
+So this kind of course outline will
+
+00:20:19.460 --> 00:20:22.190
+contain not just the notes, so also it
+
+00:20:22.190 --> 00:20:23.310
+contains a writing template.
+
+00:20:23.310 --> 00:20:25.260
+So as will go through.
+
+00:20:25.260 --> 00:20:27.970
+I'll be kind of writing in on a blank
+
+00:20:27.970 --> 00:20:29.850
+version of these notes, and so if you
+
+00:20:29.850 --> 00:20:31.285
+want to follow along and take notes,
+
+00:20:31.285 --> 00:20:34.040
+you can also use these, and for each
+
+00:20:34.040 --> 00:20:36.510
+one of these should be available.
+
+00:20:36.510 --> 00:20:37.976
+If you click this little triangle in
+
+00:20:37.976 --> 00:20:38.349
+outline.
+
+00:20:39.640 --> 00:20:42.395
+Similarly, throughout the class will in
+
+00:20:42.395 --> 00:20:44.430
+class go through some demos, although
+
+00:20:44.430 --> 00:20:45.890
+not necessarily all of the demos that
+
+00:20:45.890 --> 00:20:46.900
+you see here.
+
+00:20:46.900 --> 00:20:48.890
+These demos are primarily have
+
+00:20:48.890 --> 00:20:50.220
+primarily been developed by Andres
+
+00:20:50.220 --> 00:20:51.450
+cleaner, but also the contribution,
+
+00:20:51.450 --> 00:20:52.540
+something from Luke and some for
+
+00:20:52.540 --> 00:20:52.990
+myself.
+
+00:20:53.770 --> 00:20:56.200
+And you can kind of just click list to
+
+00:20:56.200 --> 00:20:57.980
+view the demo as an HTML page, but you
+
+00:20:57.980 --> 00:20:59.250
+can't actually run anything.
+
+00:20:59.250 --> 00:21:00.870
+You can also download the Python script
+
+00:21:00.870 --> 00:21:03.410
+or the Jupiter notebook and run it with
+
+00:21:03.410 --> 00:21:03.830
+Python.
+
+00:21:03.830 --> 00:21:05.495
+So Speaking of Python, everything in
+
+00:21:05.495 --> 00:21:08.050
+this course will be Python based and
+
+00:21:08.050 --> 00:21:09.780
+there is at the very end here some
+
+00:21:09.780 --> 00:21:13.450
+resources about kind of generally
+
+00:21:13.450 --> 00:21:14.815
+learning about Python.
+
+00:21:14.815 --> 00:21:18.415
+Python is an easy language to learn if
+
+00:21:18.415 --> 00:21:19.940
+you kind of have programming
+
+00:21:19.940 --> 00:21:21.490
+experience, which I just ate in this
+
+00:21:21.490 --> 00:21:23.000
+class is pretty much everybody has
+
+00:21:23.000 --> 00:21:23.410
+some.
+
+00:21:24.500 --> 00:21:26.322
+And it's fairly convenient for it's
+
+00:21:26.322 --> 00:21:27.490
+convenient for numerics.
+
+00:21:30.010 --> 00:21:31.610
+And that kind of you should generally
+
+00:21:31.610 --> 00:21:32.950
+be able to learn as we go along.
+
+00:21:34.270 --> 00:21:36.020
+Kind of the initial things will do with
+
+00:21:36.020 --> 00:21:37.730
+Python are fairly basic.
+
+00:21:39.440 --> 00:21:41.680
+But and they kind of primarily look
+
+00:21:41.680 --> 00:21:43.570
+like linear algebra.
+
+00:21:43.570 --> 00:21:45.410
+So actually I think I'm understanding
+
+00:21:45.410 --> 00:21:47.970
+the syntax of the code will usually not
+
+00:21:47.970 --> 00:21:49.610
+be the challenge for folks in this
+
+00:21:49.610 --> 00:21:50.380
+course course.
+
+00:21:50.380 --> 00:21:51.600
+We're not really doing too much
+
+00:21:51.600 --> 00:21:52.570
+complicated in terms of data
+
+00:21:52.570 --> 00:21:55.322
+structures, but we are doing kind of
+
+00:21:55.322 --> 00:21:56.892
+mathematics with code, and the
+
+00:21:56.892 --> 00:21:58.480
+mathematics is always offering the hard
+
+00:21:58.480 --> 00:21:58.740
+part.
+
+00:21:59.440 --> 00:22:02.680
+OK, more about that right?
+
+00:22:02.680 --> 00:22:04.295
+So in terms of actually writing Python
+
+00:22:04.295 --> 00:22:06.640
+code, this is where relate is really
+
+00:22:06.640 --> 00:22:07.112
+helpful.
+
+00:22:07.112 --> 00:22:09.949
+So actually through relate you can
+
+00:22:09.949 --> 00:22:12.787
+develop Python code through the browser
+
+00:22:12.787 --> 00:22:14.530
+and it actually even provides you
+
+00:22:14.530 --> 00:22:15.470
+different types of editors.
+
+00:22:15.470 --> 00:22:17.030
+So if you use something like them or
+
+00:22:17.030 --> 00:22:18.830
+Emacs, you can actually use that type
+
+00:22:18.830 --> 00:22:21.308
+of syntax and develop a kind of the
+
+00:22:21.308 --> 00:22:22.199
+code through the browser.
+
+00:22:22.200 --> 00:22:24.375
+Then you can submit the code to get
+
+00:22:24.375 --> 00:22:27.060
+feedback on the results and get some
+
+00:22:27.060 --> 00:22:27.960
+amount of feedback.
+
+00:22:29.930 --> 00:22:32.140
+As well as kind of keeps admitting that
+
+00:22:32.140 --> 00:22:33.240
+until you get all the credit and then
+
+00:22:33.240 --> 00:22:34.150
+actually finally submit your
+
+00:22:34.150 --> 00:22:34.640
+assignment.
+
+00:22:34.640 --> 00:22:36.580
+So generally will have some such coding
+
+00:22:36.580 --> 00:22:39.049
+questions on homeworks and there will
+
+00:22:39.050 --> 00:22:41.550
+be will plan to have especially BI
+
+00:22:41.550 --> 00:22:42.930
+Weekly Homeworks, although will skip
+
+00:22:42.930 --> 00:22:45.200
+weeks on which there is exams, which is
+
+00:22:45.200 --> 00:22:46.170
+something we haven't done in past
+
+00:22:46.170 --> 00:22:48.080
+semesters but trying to reduce the load
+
+00:22:48.080 --> 00:22:48.920
+this semester of it.
+
+00:22:49.490 --> 00:22:52.990
+So will also have quizzes and the
+
+00:22:52.990 --> 00:22:56.590
+quizzes are going to be due by Electro
+
+00:22:56.590 --> 00:22:59.190
+time for central every lecture unless
+
+00:22:59.190 --> 00:23:01.560
+there is an example and or possibly if
+
+00:23:01.560 --> 00:23:02.350
+there's something else too.
+
+00:23:02.350 --> 00:23:03.270
+Maybe we'll skip it.
+
+00:23:03.270 --> 00:23:05.859
+These quizzes are intended to kind of
+
+00:23:05.860 --> 00:23:07.470
+keep everybody on track with what's
+
+00:23:07.470 --> 00:23:09.660
+going on and to provide some kind of
+
+00:23:09.660 --> 00:23:11.960
+questions to work through after each
+
+00:23:11.960 --> 00:23:12.330
+lecture.
+
+00:23:13.860 --> 00:23:16.370
+And I thought about what weather to
+
+00:23:16.370 --> 00:23:17.800
+modify this in light of the fact that
+
+00:23:17.800 --> 00:23:19.260
+the word teaching remotely and there's
+
+00:23:19.260 --> 00:23:20.390
+a pandemic going on.
+
+00:23:20.390 --> 00:23:22.080
+But I actually think that the structure
+
+00:23:22.080 --> 00:23:23.620
+of these ad is valuable.
+
+00:23:23.620 --> 00:23:25.990
+So I think what will do is that just to
+
+00:23:25.990 --> 00:23:27.900
+try to make them a little bit kind of
+
+00:23:27.900 --> 00:23:29.054
+easier than in the past.
+
+00:23:29.054 --> 00:23:30.970
+In the past, we've had these.
+
+00:23:30.970 --> 00:23:32.990
+Typically how 1 short code coding
+
+00:23:32.990 --> 00:23:35.213
+question at the end I'm thinking of not
+
+00:23:35.213 --> 00:23:36.707
+having essentially any coding questions
+
+00:23:36.707 --> 00:23:38.395
+and also not having any questions on
+
+00:23:38.395 --> 00:23:41.500
+the exams, but this is maybe not final.
+
+00:23:41.500 --> 00:23:43.386
+Maybe will sneak in some easy coding
+
+00:23:43.386 --> 00:23:43.789
+questions.
+
+00:23:44.370 --> 00:23:46.700
+Because they do kind of offer value
+
+00:23:46.700 --> 00:23:48.420
+that otherwise it multiple choice
+
+00:23:48.420 --> 00:23:48.790
+questions.
+
+00:23:48.790 --> 00:23:51.010
+It's hard to sometimes capture.
+
+00:23:51.690 --> 00:23:53.160
+But kind of, that's one of the ways in
+
+00:23:53.160 --> 00:23:54.690
+which I'm going to try to make this
+
+00:23:54.690 --> 00:23:55.970
+semester a little bit later.
+
+00:23:55.970 --> 00:23:59.400
+While still, however, trying to kind of
+
+00:23:59.400 --> 00:24:00.830
+maintain the content of the course
+
+00:24:00.830 --> 00:24:03.520
+usually delivers as well as the kind of
+
+00:24:03.520 --> 00:24:04.990
+regular evaluations that provides,
+
+00:24:04.990 --> 00:24:06.030
+because I think they're actually very
+
+00:24:06.030 --> 00:24:08.470
+valuable for students to kind of know
+
+00:24:08.470 --> 00:24:11.160
+that they're spaced kind of staying on
+
+00:24:11.160 --> 00:24:11.850
+top, of course.
+
+00:24:13.800 --> 00:24:14.470
+OK.
+
+00:24:16.780 --> 00:24:18.560
+Other things about the course, yeah, so
+
+00:24:18.560 --> 00:24:20.530
+there's already a quiz due for the next
+
+00:24:20.530 --> 00:24:21.290
+lecture on Wednesday.
+
+00:24:21.290 --> 00:24:22.843
+This quiz is just about the course
+
+00:24:22.843 --> 00:24:24.030
+policies, so I'd encourage you to take
+
+00:24:24.030 --> 00:24:25.956
+a quick look and then complete the
+
+00:24:25.956 --> 00:24:26.519
+policies.
+
+00:24:26.520 --> 00:24:29.124
+They talk about things like the kind of
+
+00:24:29.124 --> 00:24:30.170
+late homework submission.
+
+00:24:30.170 --> 00:24:32.430
+So for both quizzes and for homework so
+
+00:24:32.430 --> 00:24:35.620
+you can submit them a few days late and
+
+00:24:35.620 --> 00:24:36.660
+receive partial credit.
+
+00:24:36.660 --> 00:24:41.090
+In particular 50% credit if you for any
+
+00:24:41.090 --> 00:24:43.182
+reason you kind of were unable to
+
+00:24:43.182 --> 00:24:45.340
+complete the quiz or homework on time,
+
+00:24:45.340 --> 00:24:47.270
+or especially if you foresee.
+
+00:24:47.340 --> 00:24:48.680
+Being unable to complete it, let us
+
+00:24:48.680 --> 00:24:51.080
+know and we'll find a way to give you
+
+00:24:51.080 --> 00:24:52.280
+extra time.
+
+00:24:52.280 --> 00:24:54.220
+This semester will be more flexible
+
+00:24:54.220 --> 00:24:55.680
+than previous semesters for all the
+
+00:24:55.680 --> 00:24:57.320
+obvious reasons.
+
+00:24:57.320 --> 00:24:58.800
+However, if you kind of.
+
+00:24:59.450 --> 00:25:00.876
+Ask us a week after the exam.
+
+00:25:00.876 --> 00:25:02.470
+With that, you kind of missed exam.
+
+00:25:02.470 --> 00:25:04.110
+We probably can't help with something
+
+00:25:04.110 --> 00:25:05.259
+like that, so there's still kind of a
+
+00:25:05.260 --> 00:25:06.670
+limit to just how much we can do.
+
+00:25:08.690 --> 00:25:11.380
+I see maybe question in the chat, how
+
+00:25:11.380 --> 00:25:13.550
+long will each quiz typically take so
+
+00:25:13.550 --> 00:25:14.420
+each quiz?
+
+00:25:15.560 --> 00:25:16.260
+Should.
+
+00:25:18.030 --> 00:25:19.820
+The issue it's not intended to take
+
+00:25:19.820 --> 00:25:21.560
+long, it's just going to be multiple
+
+00:25:21.560 --> 00:25:23.350
+choice questions, but you might run
+
+00:25:23.350 --> 00:25:24.642
+into questions that force you to go
+
+00:25:24.642 --> 00:25:26.340
+back and look at the lecture notes and
+
+00:25:26.340 --> 00:25:27.690
+kind of thing.
+
+00:25:27.690 --> 00:25:29.776
+So it might vary, but the intention is
+
+00:25:29.776 --> 00:25:31.540
+that kind of they should be less than
+
+00:25:31.540 --> 00:25:32.250
+an hour.
+
+00:25:32.250 --> 00:25:35.875
+But yeah, kind of one of the goals that
+
+00:25:35.875 --> 00:25:38.560
+they service to kind of expose
+
+00:25:38.560 --> 00:25:39.900
+potential gaps that you might have in
+
+00:25:39.900 --> 00:25:41.349
+terms of understanding, so you might
+
+00:25:41.350 --> 00:25:42.593
+need to go back and kind of re study
+
+00:25:42.593 --> 00:25:43.893
+and that might take a little longer,
+
+00:25:43.893 --> 00:25:46.000
+but that would be a good thing, but
+
+00:25:46.000 --> 00:25:46.670
+they're not.
+
+00:25:47.730 --> 00:25:49.832
+They're not super technical or kind of
+
+00:25:49.832 --> 00:25:51.460
+kind of complicated questions that you
+
+00:25:51.460 --> 00:25:52.780
+have to do lots of calculations for
+
+00:25:52.780 --> 00:25:56.080
+something, so they should be reasonably
+
+00:25:56.080 --> 00:25:56.550
+straightforward.
+
+00:25:57.290 --> 00:25:59.750
+Do the quest points get added up to the
+
+00:25:59.750 --> 00:26:00.205
+final grade?
+
+00:26:00.205 --> 00:26:01.980
+So yeah, so that.
+
+00:26:02.900 --> 00:26:04.863
+Quizzes are part of the grade, but they
+
+00:26:04.863 --> 00:26:06.880
+are a small part and you also have
+
+00:26:06.880 --> 00:26:09.739
+multiple attempts for each quiz, so you
+
+00:26:09.740 --> 00:26:11.090
+can actually try once.
+
+00:26:11.090 --> 00:26:12.350
+See what you got wrong.
+
+00:26:12.350 --> 00:26:14.970
+Try again so the intention is that you
+
+00:26:14.970 --> 00:26:16.400
+essentially should be able to get full
+
+00:26:16.400 --> 00:26:18.110
+credit for these online quizzes as long
+
+00:26:18.110 --> 00:26:20.060
+as you stay on top of the deadlines.
+
+00:26:20.060 --> 00:26:23.420
+Although there's also high incentive to
+
+00:26:23.420 --> 00:26:24.890
+not really just wait until the final
+
+00:26:24.890 --> 00:26:26.800
+try for the quiz and try everything,
+
+00:26:26.800 --> 00:26:28.383
+but they actually think through the
+
+00:26:28.383 --> 00:26:30.024
+questions because the types of
+
+00:26:30.024 --> 00:26:31.105
+questions you see on the quizzes are
+
+00:26:31.105 --> 00:26:32.170
+the same as what you'll see in the
+
+00:26:32.170 --> 00:26:32.760
+examines.
+
+00:26:33.120 --> 00:26:34.469
+So the exam will also be kind of
+
+00:26:34.470 --> 00:26:37.120
+multiple choice or kind of number entry
+
+00:26:37.120 --> 00:26:39.740
+type questions and so these are these
+
+00:26:39.740 --> 00:26:41.220
+quizzes are the primary source of
+
+00:26:41.220 --> 00:26:42.030
+practice that you get.
+
+00:26:42.030 --> 00:26:43.600
+For example, it's an exam list will be
+
+00:26:43.600 --> 00:26:45.000
+worth more of your great.
+
+00:26:45.630 --> 00:26:47.820
+That said, kind of the homework is
+
+00:26:47.820 --> 00:26:49.436
+still worth a lot and kind of none of
+
+00:26:49.436 --> 00:26:51.383
+the final or none of the examples will
+
+00:26:51.383 --> 00:26:55.280
+kind of by themselves, kind of force
+
+00:26:55.280 --> 00:26:56.570
+you to fail the course if you don't do
+
+00:26:56.570 --> 00:26:58.250
+that well, so I hope that this kind of
+
+00:26:58.250 --> 00:26:59.840
+great balance is reasonable.
+
+00:27:01.270 --> 00:27:02.790
+So both quizzes and homeworks will be
+
+00:27:02.790 --> 00:27:03.920
+posted and unrelated.
+
+00:27:03.920 --> 00:27:05.220
+Yes, correct.
+
+00:27:05.220 --> 00:27:07.490
+So will post everything on this relate
+
+00:27:07.490 --> 00:27:08.465
+web page.
+
+00:27:08.465 --> 00:27:10.750
+So if you just stay on top of that you
+
+00:27:10.750 --> 00:27:12.450
+should be able to find all assignments.
+
+00:27:12.450 --> 00:27:14.100
+So for quizzes.
+
+00:27:16.080 --> 00:27:18.980
+We won't post these 24 hours before the
+
+00:27:18.980 --> 00:27:21.180
+deadline, which is not.
+
+00:27:21.180 --> 00:27:23.510
+I understand that's not a lot of hours.
+
+00:27:24.750 --> 00:27:27.290
+I will try to post them, give you even
+
+00:27:27.290 --> 00:27:28.890
+more time in particular.
+
+00:27:28.890 --> 00:27:31.597
+So if like will try to post on Monday
+
+00:27:31.597 --> 00:27:33.520
+afternoon the quiz due on Wednesday or
+
+00:27:33.520 --> 00:27:35.000
+by Monday afternoon there.
+
+00:27:35.000 --> 00:27:37.230
+But sometimes we do need a little bit
+
+00:27:37.230 --> 00:27:37.985
+of extra time.
+
+00:27:37.985 --> 00:27:40.560
+A big reason is that the quiz is meant
+
+00:27:40.560 --> 00:27:42.070
+to reflect the material we covered in
+
+00:27:42.070 --> 00:27:43.960
+lecture, and I often don't know just
+
+00:27:43.960 --> 00:27:45.225
+how far we will get a lecture.
+
+00:27:45.225 --> 00:27:46.945
+So then it requires some adjustment of
+
+00:27:46.945 --> 00:27:48.730
+the quiz right after it's released.
+
+00:27:48.730 --> 00:27:50.590
+And then there's always a short fuse
+
+00:27:50.590 --> 00:27:52.700
+deadline between on Monday assigned
+
+00:27:52.700 --> 00:27:54.519
+quiz due Wednesday.
+
+00:27:54.860 --> 00:27:56.310
+On the other hand, when we assign a
+
+00:27:56.310 --> 00:27:58.520
+quiz due Monday, you should have more
+
+00:27:58.520 --> 00:27:58.950
+time.
+
+00:28:00.470 --> 00:28:02.040
+So hopefully that's OK.
+
+00:28:02.040 --> 00:28:03.590
+If for any reason you're not able to
+
+00:28:03.590 --> 00:28:05.330
+complete the quiz in a lot of time, let
+
+00:28:05.330 --> 00:28:07.110
+us know and we'll give you an
+
+00:28:07.110 --> 00:28:07.480
+extension.
+
+00:28:09.170 --> 00:28:10.970
+So in total, for example, yes, three
+
+00:28:10.970 --> 00:28:13.903
+example it's and one final exam.
+
+00:28:13.903 --> 00:28:16.670
+And will exams be close book?
+
+00:28:16.670 --> 00:28:17.740
+Or can we take notes?
+
+00:28:17.740 --> 00:28:21.400
+The exams will be closed book and they
+
+00:28:21.400 --> 00:28:24.380
+will be done through CBT off which
+
+00:28:24.380 --> 00:28:24.785
+offers.
+
+00:28:24.785 --> 00:28:26.920
+So this is kind of a proctoring service
+
+00:28:26.920 --> 00:28:29.320
+offered by the College of Engineering.
+
+00:28:29.320 --> 00:28:32.380
+I think it's seems to be the better
+
+00:28:32.380 --> 00:28:33.550
+option and pretty much anything else
+
+00:28:33.550 --> 00:28:37.140
+available, but there is so the plan
+
+00:28:37.140 --> 00:28:39.270
+right now is to have the exam.
+
+00:28:39.270 --> 00:28:40.520
+Let's be an hour.
+
+00:28:40.630 --> 00:28:43.100
+15 minutes long and to start at 9:00 AM
+
+00:28:43.100 --> 00:28:44.420
+to 10:50.
+
+00:28:44.420 --> 00:28:48.540
+So that starts half an hour earlier
+
+00:28:48.540 --> 00:28:49.153
+than the course.
+
+00:28:49.153 --> 00:28:51.390
+So like this is during course time but
+
+00:28:51.390 --> 00:28:52.839
+30 minutes earlier.
+
+00:28:52.839 --> 00:28:55.340
+If you actually have a different course
+
+00:28:55.340 --> 00:28:57.716
+or some other, there's another reason
+
+00:28:57.716 --> 00:28:59.480
+that you can't make this time on a
+
+00:28:59.480 --> 00:29:00.730
+regular basis.
+
+00:29:00.730 --> 00:29:01.380
+Let me know.
+
+00:29:01.380 --> 00:29:02.805
+I'm actually curious if this will cause
+
+00:29:02.805 --> 00:29:05.270
+a lot of problems, because if so, I
+
+00:29:05.270 --> 00:29:08.720
+think we I can talk to CTF and possibly
+
+00:29:08.720 --> 00:29:10.490
+we can change this to be just purely
+
+00:29:10.490 --> 00:29:11.510
+within course time.
+
+00:29:11.560 --> 00:29:12.850
+But then the exam will probably be
+
+00:29:12.850 --> 00:29:15.986
+shorter, so not an hour and 15 minutes,
+
+00:29:15.986 --> 00:29:17.545
+but somebody 5 minutes or something or
+
+00:29:17.545 --> 00:29:17.780
+not.
+
+00:29:17.780 --> 00:29:18.502
+Wanna half.
+
+00:29:18.502 --> 00:29:20.980
+But this is kind of the default that
+
+00:29:20.980 --> 00:29:23.227
+CBT have gave us when asking, and I
+
+00:29:23.227 --> 00:29:25.710
+think this will probably make most
+
+00:29:25.710 --> 00:29:27.270
+people happy because it's just longer.
+
+00:29:27.270 --> 00:29:30.040
+But if it turns out that there's some
+
+00:29:30.040 --> 00:29:31.947
+other queries 8:00 to 9:30 and a lot of
+
+00:29:31.947 --> 00:29:34.590
+people have a conflict with this, let
+
+00:29:34.590 --> 00:29:36.200
+me know and maybe will actually make a
+
+00:29:36.200 --> 00:29:36.570
+change.
+
+00:29:36.570 --> 00:29:39.459
+But right now I think this is probably.
+
+00:29:40.040 --> 00:29:41.750
+A good idea, because there's also
+
+00:29:41.750 --> 00:29:42.925
+conflict exam times.
+
+00:29:42.925 --> 00:29:45.100
+So CTF will kind of automatically
+
+00:29:45.100 --> 00:29:47.400
+schedule conflict exams on 8:00 AM and
+
+00:29:47.400 --> 00:29:48.580
+8:00 PM that day.
+
+00:29:48.580 --> 00:29:50.690
+So if you need to reschedule to one of
+
+00:29:50.690 --> 00:29:53.060
+those, that should be relatively easy.
+
+00:29:53.060 --> 00:29:54.990
+However, for any kind of rescheduling
+
+00:29:54.990 --> 00:29:56.920
+or conflict, I believe we need to
+
+00:29:56.920 --> 00:29:59.200
+prove, I think for some of them, maybe
+
+00:29:59.200 --> 00:30:01.015
+they'll be automatically approved, but
+
+00:30:01.015 --> 00:30:03.060
+generally don't assume that you can
+
+00:30:03.060 --> 00:30:04.830
+kind of do this late and we try to stay
+
+00:30:04.830 --> 00:30:08.260
+ahead of time and let CBT up now, and
+
+00:30:08.260 --> 00:30:10.435
+I'll kind of generally approve complex
+
+00:30:10.435 --> 00:30:11.860
+as long as there are reasonable.
+
+00:30:12.070 --> 00:30:13.620
+I think these are also not the only
+
+00:30:13.620 --> 00:30:15.570
+conflict, so if you just can't make the
+
+00:30:15.570 --> 00:30:17.110
+example that day, you can take it on a
+
+00:30:17.110 --> 00:30:17.950
+different day.
+
+00:30:17.950 --> 00:30:19.160
+It's also a little bit annoying that
+
+00:30:19.160 --> 00:30:21.150
+the conflict is at 8:00 AM versus 9:00
+
+00:30:21.150 --> 00:30:22.830
+AM, but this is the these times are
+
+00:30:22.830 --> 00:30:23.440
+kind of fixed.
+
+00:30:24.050 --> 00:30:25.590
+Let's see if there's more questions.
+
+00:30:27.100 --> 00:30:27.904
+Facilities in person.
+
+00:30:27.904 --> 00:30:29.482
+You do not have to go anywhere in
+
+00:30:29.482 --> 00:30:33.010
+person, so the CTF will is a proctoring
+
+00:30:33.010 --> 00:30:33.191
+service.
+
+00:30:33.191 --> 00:30:34.920
+So what they'll do is actually proctoru
+
+00:30:34.920 --> 00:30:37.004
+over zoom and what you'll need to do is
+
+00:30:37.004 --> 00:30:38.920
+to set up a cell phone or something
+
+00:30:38.920 --> 00:30:40.700
+else to point at your you and your
+
+00:30:40.700 --> 00:30:43.960
+computer screen and there will be a
+
+00:30:43.960 --> 00:30:47.050
+Proctor who is there who is not related
+
+00:30:47.050 --> 00:30:48.290
+to the poor, so they can't really
+
+00:30:48.290 --> 00:30:49.830
+answer questions, although if you run
+
+00:30:49.830 --> 00:30:51.190
+into a technical issue you should
+
+00:30:51.190 --> 00:30:54.380
+record it with them and they'll kind of
+
+00:30:54.380 --> 00:30:55.670
+watch you to make sure that.
+
+00:30:58.740 --> 00:31:01.640
+Only viewing the kind of the web page
+
+00:31:01.640 --> 00:31:02.540
+are allowed to view, which is
+
+00:31:02.540 --> 00:31:03.740
+essentially they relate.
+
+00:31:05.310 --> 00:31:08.660
+Age and they are familiar with how what
+
+00:31:08.660 --> 00:31:11.120
+kind of relate infrastructure to the
+
+00:31:11.120 --> 00:31:12.140
+best of my knowledge at least they have
+
+00:31:12.140 --> 00:31:12.780
+been in the past.
+
+00:31:14.920 --> 00:31:16.690
+So let's see the answer, the actual
+
+00:31:16.690 --> 00:31:17.080
+question.
+
+00:31:18.500 --> 00:31:19.020
+Online.
+
+00:31:20.610 --> 00:31:22.300
+Yeah, I guess there it's close book.
+
+00:31:22.300 --> 00:31:24.390
+In the past we've also had just closed
+
+00:31:24.390 --> 00:31:26.260
+book exams in kind of physical CBT
+
+00:31:26.260 --> 00:31:28.530
+facilities, so this is not all that
+
+00:31:28.530 --> 00:31:30.630
+different and the exam will just be
+
+00:31:30.630 --> 00:31:33.090
+through there relate system.
+
+00:31:33.090 --> 00:31:35.620
+We can also offer in Proctor exams
+
+00:31:35.620 --> 00:31:37.880
+outside of CTF if it ever becomes
+
+00:31:37.880 --> 00:31:38.620
+necessary.
+
+00:31:38.620 --> 00:31:40.290
+So there's lots of these work arounds,
+
+00:31:40.290 --> 00:31:42.650
+but hopefully the standard CTF thing
+
+00:31:42.650 --> 00:31:44.270
+will actually serve us quite well.
+
+00:31:48.040 --> 00:31:48.540
+Yeah.
+
+00:31:50.970 --> 00:31:53.790
+Did I miss any other question with me?
+
+00:31:56.550 --> 00:31:58.250
+Is there any final project or anything
+
+00:31:58.250 --> 00:31:58.676
+like that?
+
+00:31:58.676 --> 00:32:00.320
+There is not a final project.
+
+00:32:01.820 --> 00:32:04.600
+Your one thing, so there actually used
+
+00:32:04.600 --> 00:32:06.050
+to be a final project for the four
+
+00:32:06.050 --> 00:32:07.030
+credit hours section.
+
+00:32:08.600 --> 00:32:11.350
+What I've done in kind of in planning
+
+00:32:11.350 --> 00:32:12.710
+to do this here again is to just have
+
+00:32:12.710 --> 00:32:14.080
+extra homework assignments for the four
+
+00:32:14.080 --> 00:32:14.950
+credit hours section.
+
+00:32:16.830 --> 00:32:19.025
+There is a caveat to this in that I
+
+00:32:19.025 --> 00:32:20.530
+think the four credit hours section has
+
+00:32:20.530 --> 00:32:22.160
+been restricted to graduate only, while
+
+00:32:22.160 --> 00:32:23.510
+the three quarter section has been
+
+00:32:23.510 --> 00:32:24.945
+restricted to undergraduate only.
+
+00:32:24.945 --> 00:32:26.710
+I notice that just this morning by
+
+00:32:26.710 --> 00:32:27.970
+looking at essentially who's registered
+
+00:32:27.970 --> 00:32:28.740
+for both.
+
+00:32:28.740 --> 00:32:31.840
+This is not actually my intention or
+
+00:32:31.840 --> 00:32:33.220
+desire because I think.
+
+00:32:33.860 --> 00:32:35.500
+The actual difference between three and
+
+00:32:35.500 --> 00:32:37.146
+four credit hours sections is kind of
+
+00:32:37.146 --> 00:32:39.180
+some extra more technical material, and
+
+00:32:39.180 --> 00:32:40.700
+so the extra credit hours for students
+
+00:32:40.700 --> 00:32:42.070
+who want to dive a little bit deeper
+
+00:32:42.070 --> 00:32:43.339
+into the course.
+
+00:32:43.340 --> 00:32:45.290
+We, who are not necessarily graduate
+
+00:32:45.290 --> 00:32:45.475
+students.
+
+00:32:45.475 --> 00:32:48.520
+I think I do know that there are some
+
+00:32:48.520 --> 00:32:50.060
+programs that require the full credit.
+
+00:32:50.060 --> 00:32:51.200
+Our version of the course.
+
+00:32:52.440 --> 00:32:54.950
+And do the graduate programs, but I'll
+
+00:32:54.950 --> 00:32:57.050
+actually make a request that the
+
+00:32:57.050 --> 00:32:58.700
+restrictions on the sections be lifted.
+
+00:32:58.700 --> 00:33:00.664
+So if you're an undergraduate and you
+
+00:33:00.664 --> 00:33:02.270
+want to take the forfeited, our version
+
+00:33:02.270 --> 00:33:03.840
+of the course and complete these extra
+
+00:33:03.840 --> 00:33:05.121
+assignments, that's great.
+
+00:33:05.121 --> 00:33:06.676
+And if you're a graduate student but
+
+00:33:06.676 --> 00:33:07.800
+you want to take the three credit hour
+
+00:33:07.800 --> 00:33:09.650
+version of the course and have kind of.
+
+00:33:10.320 --> 00:33:12.570
+A lighter version of kind of assignment
+
+00:33:12.570 --> 00:33:14.460
+load that's also totally fine with me,
+
+00:33:14.460 --> 00:33:16.740
+it's just that are I think the system
+
+00:33:16.740 --> 00:33:18.800
+was locked into this other mode.
+
+00:33:19.580 --> 00:33:21.410
+Last two times we also had to ask to
+
+00:33:21.410 --> 00:33:22.940
+make the change, but it seems it
+
+00:33:22.940 --> 00:33:24.240
+doesn't carry over to you semesters.
+
+00:33:25.190 --> 00:33:25.840
+
+
+00:33:26.790 --> 00:33:28.950
+Yep, so yeah, I guess I've already
+
+00:33:28.950 --> 00:33:30.630
+mentioned this for credit everything,
+
+00:33:30.630 --> 00:33:33.060
+so for that section will have some
+
+00:33:33.060 --> 00:33:34.300
+additional homework questions.
+
+00:33:34.920 --> 00:33:35.650
+
+
+00:33:38.230 --> 00:33:40.430
+I think I'm not yet sure exactly when
+
+00:33:40.430 --> 00:33:42.390
+these will come over in what form.
+
+00:33:42.390 --> 00:33:45.340
+In the past we had.
+
+00:33:45.340 --> 00:33:48.070
+In a sense, one homework that was kind
+
+00:33:48.070 --> 00:33:49.370
+of an addendum homework for the full
+
+00:33:49.370 --> 00:33:50.520
+credit hours section for every
+
+00:33:50.520 --> 00:33:51.830
+throughout our homework and homework
+
+00:33:51.830 --> 00:33:53.120
+would have like one question or so.
+
+00:33:53.120 --> 00:33:53.950
+I think.
+
+00:33:53.950 --> 00:33:55.260
+Maybe I want to do a little bit less
+
+00:33:55.260 --> 00:33:56.740
+this semester again because it's just
+
+00:33:56.740 --> 00:33:58.120
+there's a pandemic going on.
+
+00:33:59.690 --> 00:34:02.540
+But we'll see exactly how, but there
+
+00:34:02.540 --> 00:34:03.960
+will be some homework questions coming
+
+00:34:03.960 --> 00:34:04.610
+that are extra.
+
+00:34:05.550 --> 00:34:08.370
+Since the 4th grade with those kind of
+
+00:34:08.370 --> 00:34:10.573
+mean that we get 33% more kind of
+
+00:34:10.573 --> 00:34:11.792
+credit for the course than the three
+
+00:34:11.792 --> 00:34:13.780
+credit hours does, formally speaking.
+
+00:34:15.680 --> 00:34:17.470
+Other questions that I'm making list.
+
+00:34:20.690 --> 00:34:23.020
+Do we have homework for every week so
+
+00:34:23.020 --> 00:34:24.520
+Homeworks will be assigned?
+
+00:34:25.920 --> 00:34:26.700
+BI weekly.
+
+00:34:27.430 --> 00:34:30.530
+I think my plan was to assign homework
+
+00:34:30.530 --> 00:34:32.735
+this week, do 2 weeks from now and to
+
+00:34:32.735 --> 00:34:34.350
+kind of keep assigning homework
+
+00:34:34.350 --> 00:34:35.580
+whenever one is do.
+
+00:34:35.580 --> 00:34:37.420
+Unless there is an exam the following
+
+00:34:37.420 --> 00:34:39.607
+week and then skip a week to give you
+
+00:34:39.607 --> 00:34:42.457
+kind of a weekend or so to study for
+
+00:34:42.457 --> 00:34:43.052
+the exam.
+
+00:34:43.052 --> 00:34:44.560
+The current plan is to have home runs
+
+00:34:44.560 --> 00:34:46.840
+do as they were before and Friday
+
+00:34:46.840 --> 00:34:49.060
+evenings so you will be assigned
+
+00:34:49.060 --> 00:34:50.660
+homework on Friday evening and it would
+
+00:34:50.660 --> 00:34:53.819
+be do kind of two weeks from that time.
+
+00:34:53.820 --> 00:34:55.460
+Assuming we actually get it out on
+
+00:34:55.460 --> 00:34:56.720
+time, which hopefully will stay on top
+
+00:34:56.720 --> 00:34:57.140
+of that.
+
+00:34:57.770 --> 00:34:58.640
+
+
+00:34:59.220 --> 00:35:00.690
+Yeah, so that's kind of the plan.
+
+00:35:00.690 --> 00:35:02.774
+This is this is a in the intention is
+
+00:35:02.774 --> 00:35:04.000
+that this is a somewhat lighter load of
+
+00:35:04.000 --> 00:35:06.230
+Homer extent in previous semesters.
+
+00:35:06.230 --> 00:35:08.470
+However, the quizzes are stating just
+
+00:35:08.470 --> 00:35:10.050
+as regular, so hopefully this gives
+
+00:35:10.050 --> 00:35:11.480
+everybody a chance to stay on top of
+
+00:35:11.480 --> 00:35:12.060
+the course.
+
+00:35:12.060 --> 00:35:12.250
+I think.
+
+00:35:12.250 --> 00:35:14.250
+Kind of if there's too few things going
+
+00:35:14.250 --> 00:35:15.590
+on that lines were too loose.
+
+00:35:15.590 --> 00:35:19.260
+It's kind of easy to postpone kind of
+
+00:35:19.260 --> 00:35:19.530
+studying.
+
+00:35:19.530 --> 00:35:20.860
+And of course like this, and that's not
+
+00:35:20.860 --> 00:35:22.270
+really great.
+
+00:35:23.550 --> 00:35:25.130
+So hopefully this is a good structure.
+
+00:35:26.240 --> 00:35:28.820
+Us, somebody asked if there's any
+
+00:35:28.820 --> 00:35:30.530
+difference between essentially
+
+00:35:30.530 --> 00:35:31.183
+different sections.
+
+00:35:31.183 --> 00:35:33.140
+No, there's absolutely no difference.
+
+00:35:33.140 --> 00:35:34.976
+So except for the three versus 4 credit
+
+00:35:34.976 --> 00:35:37.040
+hour version, and I think for no matter
+
+00:35:37.040 --> 00:35:39.110
+whether you were kind of register mass
+
+00:35:39.110 --> 00:35:41.055
+yes or ECE, there should be three and
+
+00:35:41.055 --> 00:35:42.230
+four credit hour versions.
+
+00:35:42.230 --> 00:35:45.120
+I think each one of those has been
+
+00:35:45.120 --> 00:35:46.780
+assigned like some number of fixed
+
+00:35:46.780 --> 00:35:48.690
+slots, so if it looks like this section
+
+00:35:48.690 --> 00:35:50.910
+is full, just send me an email and
+
+00:35:50.910 --> 00:35:52.670
+we'll figure it out like they were
+
+00:35:52.670 --> 00:35:53.620
+nowhere near capacity.
+
+00:35:53.620 --> 00:35:55.870
+I think there's something like 150 wild
+
+00:35:55.870 --> 00:35:56.840
+capacities 200.
+
+00:35:57.120 --> 00:35:59.320
+It's a zoom call anyway, so in a sense
+
+00:35:59.320 --> 00:36:01.129
+we should be able to get you into the
+
+00:36:01.130 --> 00:36:02.460
+course into the right section.
+
+00:36:02.460 --> 00:36:04.105
+If you're already, then we can also do
+
+00:36:04.105 --> 00:36:06.370
+that later and in the Meanwhile you can
+
+00:36:06.370 --> 00:36:08.410
+start and work through everything.
+
+00:36:08.410 --> 00:36:09.540
+One thing you should do is to actually
+
+00:36:09.540 --> 00:36:11.509
+create an account on relate and that
+
+00:36:11.510 --> 00:36:13.450
+will allow you to access everything
+
+00:36:13.450 --> 00:36:15.999
+here to create an account and relate
+
+00:36:16.000 --> 00:36:16.360
+well.
+
+00:36:16.360 --> 00:36:17.287
+You really don't even need account, you
+
+00:36:17.287 --> 00:36:18.690
+can just log in through your.
+
+00:36:20.730 --> 00:36:23.170
+Not ID and password, so hasn't
+
+00:36:23.170 --> 00:36:24.810
+implication system that goes through
+
+00:36:24.810 --> 00:36:25.660
+University of Illinois.
+
+00:36:26.520 --> 00:36:28.040
+And once you registered for the course
+
+00:36:28.040 --> 00:36:29.530
+in this way, then you can actually
+
+00:36:29.530 --> 00:36:30.930
+complete all the assignments and submit
+
+00:36:30.930 --> 00:36:32.840
+them, and we're going to kind of just
+
+00:36:32.840 --> 00:36:34.320
+great Norman stuff without actually
+
+00:36:34.320 --> 00:36:36.236
+checking who is who is actually
+
+00:36:36.236 --> 00:36:37.200
+registered at that time.
+
+00:36:39.050 --> 00:36:41.650
+So the time you registration actually
+
+00:36:41.650 --> 00:36:44.295
+important is maybe once the exams come.
+
+00:36:44.295 --> 00:36:46.940
+So which is like in late February?
+
+00:36:46.940 --> 00:36:48.260
+Because I think TF.
+
+00:36:48.860 --> 00:36:51.640
+Maybe will require that students be
+
+00:36:51.640 --> 00:36:53.810
+officially registered, but by that time
+
+00:36:53.810 --> 00:36:55.800
+hopefully all these issues with
+
+00:36:55.800 --> 00:36:56.870
+sections are sorted out.
+
+00:36:58.450 --> 00:37:00.780
+Let's see any further questions.
+
+00:37:02.610 --> 00:37:03.660
+Are there quizzes?
+
+00:37:05.220 --> 00:37:07.185
+Hi Miss period the previous stuff are
+
+00:37:07.185 --> 00:37:09.195
+there unlimited attempts for quizzes
+
+00:37:09.195 --> 00:37:10.465
+there is not.
+
+00:37:10.465 --> 00:37:12.230
+I forget exactly, so I think we have
+
+00:37:12.230 --> 00:37:14.090
+three atoms.
+
+00:37:14.090 --> 00:37:15.950
+Pretty sure.
+
+00:37:15.950 --> 00:37:17.680
+Let's see what their policy say.
+
+00:37:19.150 --> 00:37:21.925
+3 go to the top step of these, one with
+
+00:37:21.925 --> 00:37:23.490
+the higher grade will count.
+
+00:37:23.490 --> 00:37:25.520
+So for multiple choice questions this
+
+00:37:25.520 --> 00:37:26.820
+is almost unlimited attempts because
+
+00:37:26.820 --> 00:37:28.140
+you can tell what you got wrong when
+
+00:37:28.140 --> 00:37:30.830
+you first attempt and so forth, so
+
+00:37:30.830 --> 00:37:32.390
+hopefully that's good.
+
+00:37:32.390 --> 00:37:34.430
+Let's see other questions.
+
+00:37:42.450 --> 00:37:44.620
+I think I got everything.
+
+00:37:44.620 --> 00:37:46.210
+Let me know if I missed something.
+
+00:37:46.900 --> 00:37:48.350
+Right and then the other thing I want
+
+00:37:48.350 --> 00:37:49.250
+to show you is.
+
+00:37:51.010 --> 00:37:53.170
+Let's wait on that first, second.
+
+00:37:54.150 --> 00:37:55.670
+Anything else about the web page they
+
+00:37:55.670 --> 00:37:56.960
+need to say so will post.
+
+00:37:56.960 --> 00:37:58.322
+All lectures will be recorded.
+
+00:37:58.322 --> 00:38:00.380
+So also this is being recorded and
+
+00:38:00.380 --> 00:38:02.030
+things will be posted on media space.
+
+00:38:03.510 --> 00:38:05.550
+So kind of I would encourage you to
+
+00:38:05.550 --> 00:38:06.040
+maybe.
+
+00:38:07.480 --> 00:38:09.540
+Yeah, so like things will be available
+
+00:38:09.540 --> 00:38:11.420
+asynchronously if you need them.
+
+00:38:11.420 --> 00:38:12.780
+There will sometimes be in class
+
+00:38:12.780 --> 00:38:14.160
+activities which you can complete
+
+00:38:14.160 --> 00:38:15.993
+through relate and usually will be like
+
+00:38:15.993 --> 00:38:18.580
+kind of coding questions.
+
+00:38:18.580 --> 00:38:20.800
+Those will generally not be for credit,
+
+00:38:20.800 --> 00:38:23.290
+but I will also post them probably in
+
+00:38:23.290 --> 00:38:23.730
+outline.
+
+00:38:23.730 --> 00:38:24.830
+So if you want to kind of take a look
+
+00:38:24.830 --> 00:38:26.750
+at the questions offline if you're not
+
+00:38:26.750 --> 00:38:28.449
+physically attending, not attending
+
+00:38:28.450 --> 00:38:29.610
+lectures synchronously.
+
+00:38:31.360 --> 00:38:32.930
+We those will be available to.
+
+00:38:34.310 --> 00:38:35.750
+I think that's.
+
+00:38:38.270 --> 00:38:40.430
+Most administrative things that I
+
+00:38:40.430 --> 00:38:41.270
+wanted to mention.
+
+00:38:42.440 --> 00:38:44.980
+Any questions on that type of thing?
+
+00:38:48.580 --> 00:38:48.970
+OK.
+
+00:38:49.730 --> 00:38:51.530
+So then let me stop sharing.
+
+00:38:52.180 --> 00:38:54.530
+So let's so I want to show you one
+
+00:38:54.530 --> 00:38:55.650
+thing here and then I'm going to switch
+
+00:38:55.650 --> 00:38:58.420
+to shame screen on my notebook where.
+
+00:38:59.160 --> 00:39:02.430
+I'm ranked so the way I would actually
+
+00:39:02.430 --> 00:39:05.740
+prefer that questions be asked, because
+
+00:39:05.740 --> 00:39:06.990
+Zoom chat has.
+
+00:39:07.800 --> 00:39:10.830
+Various issues, and in particular when
+
+00:39:10.830 --> 00:39:11.900
+I'm sharing screen writing on
+
+00:39:11.900 --> 00:39:13.635
+something, it's generally I'm not able
+
+00:39:13.635 --> 00:39:14.350
+to see the questions.
+
+00:39:14.350 --> 00:39:17.820
+I don't really get notifications, so to
+
+00:39:17.820 --> 00:39:19.360
+make sure I actually the question right
+
+00:39:19.360 --> 00:39:19.660
+away.
+
+00:39:19.660 --> 00:39:21.730
+If you have a technical question about
+
+00:39:21.730 --> 00:39:23.860
+what I'm doing, especially use this
+
+00:39:23.860 --> 00:39:25.400
+send instant message feature.
+
+00:39:25.970 --> 00:39:27.200
+And if you click here.
+
+00:39:29.850 --> 00:39:31.210
+If it works, let's see.
+
+00:39:33.110 --> 00:39:35.960
+I just slow, so if you type a message
+
+00:39:35.960 --> 00:39:38.120
+here it will actually appear on
+
+00:39:38.120 --> 00:39:40.889
+directly on my screen on my on my
+
+00:39:40.890 --> 00:39:41.490
+notebook.
+
+00:39:41.490 --> 00:39:44.820
+So I'm going to 2nd type test and click
+
+00:39:44.820 --> 00:39:45.170
+send.
+
+00:39:45.170 --> 00:39:46.590
+But before that let me stop sharing
+
+00:39:46.590 --> 00:39:49.917
+this screen and start sharing my screen
+
+00:39:49.917 --> 00:39:50.430
+here.
+
+00:39:54.310 --> 00:39:57.380
+So now I'm going to send a message
+
+00:39:57.380 --> 00:39:59.160
+saying, hi Edgar.
+
+00:40:01.410 --> 00:40:03.060
+And after some lag.
+
+00:40:04.660 --> 00:40:06.910
+Selected twice a message appears right
+
+00:40:06.910 --> 00:40:07.200
+here.
+
+00:40:08.910 --> 00:40:11.590
+And so this way you can ask questions
+
+00:40:11.590 --> 00:40:13.650
+in a way that's anonymous to everybody
+
+00:40:13.650 --> 00:40:14.130
+else.
+
+00:40:14.130 --> 00:40:15.750
+Although there is some log.
+
+00:40:15.750 --> 00:40:18.560
+If I if something needs to be checked.
+
+00:40:20.580 --> 00:40:21.900
+And it will write away appear here.
+
+00:40:21.900 --> 00:40:23.476
+So I will see your question right away
+
+00:40:23.476 --> 00:40:25.120
+so that instant message feature through
+
+00:40:25.120 --> 00:40:26.070
+late is.
+
+00:40:27.570 --> 00:40:28.680
+I think a good way to ask questions.
+
+00:40:28.680 --> 00:40:30.970
+We actually also used in life course
+
+00:40:30.970 --> 00:40:33.590
+rooms like in physical lectures and it
+
+00:40:33.590 --> 00:40:34.410
+was working well.
+
+00:40:35.970 --> 00:40:38.920
+It is also feel free to use this chat,
+
+00:40:38.920 --> 00:40:40.260
+although that I may not see it right
+
+00:40:40.260 --> 00:40:42.550
+away or to just kind of.
+
+00:40:43.410 --> 00:40:44.850
+Interrupt me, perhaps an ask the
+
+00:40:44.850 --> 00:40:45.310
+question.
+
+00:40:45.310 --> 00:40:46.510
+Hopefully that will.
+
+00:40:47.130 --> 00:40:49.710
+Work, but I understand that we assume
+
+00:40:49.710 --> 00:40:50.890
+this is kind of tricky.
+
+00:40:50.890 --> 00:40:52.760
+I will also, as a result, generally
+
+00:40:52.760 --> 00:40:54.783
+probably be asking all of you last
+
+00:40:54.783 --> 00:40:56.210
+questions as throughout the courses I
+
+00:40:56.210 --> 00:40:57.990
+wouldn't normally in a physical lecture
+
+00:40:57.990 --> 00:40:59.580
+because it just is the case.
+
+00:40:59.580 --> 00:41:01.650
+It is more difficult and to kind of
+
+00:41:01.650 --> 00:41:03.186
+answer questions back and forth and in
+
+00:41:03.186 --> 00:41:03.780
+a quick web.
+
+00:41:05.010 --> 00:41:07.330
+I see more questions.
+
+00:41:09.140 --> 00:41:10.750
+I do not see the demos from the website
+
+00:41:10.750 --> 00:41:12.620
+will be posted up through the lectures.
+
+00:41:12.620 --> 00:41:14.330
+I think the downloads are should
+
+00:41:14.330 --> 00:41:15.309
+already be posted.
+
+00:41:16.170 --> 00:41:17.260
+
+
+00:41:18.120 --> 00:41:20.190
+So maybe also maybe refresh the page.
+
+00:41:20.190 --> 00:41:22.920
+I just updated it this morning, added
+
+00:41:22.920 --> 00:41:25.240
+demos, including some other changes.
+
+00:41:25.930 --> 00:41:27.420
+If you still cannot access the demo, so
+
+00:41:27.420 --> 00:41:28.000
+let me know.
+
+00:41:28.870 --> 00:41:30.780
+The office hours are actually not just
+
+00:41:30.780 --> 00:41:33.160
+yet posted that will be posted this
+
+00:41:33.160 --> 00:41:35.660
+afternoon, so we only have our first
+
+00:41:35.660 --> 00:41:38.315
+team meeting at 1:00 PM today.
+
+00:41:38.315 --> 00:41:39.890
+So that's when I will be quitting the
+
+00:41:39.890 --> 00:41:40.180
+GS.
+
+00:41:40.180 --> 00:41:41.170
+But one they can.
+
+00:41:42.760 --> 00:41:46.330
+Have office hours so kind of keep an
+
+00:41:46.330 --> 00:41:48.160
+eye on and that will be posted this
+
+00:41:48.160 --> 00:41:48.580
+afternoon.
+
+00:41:49.290 --> 00:41:50.910
+Yeah, good questions.
+
+00:41:55.000 --> 00:41:56.720
+OK, any other questions?
+
+00:42:03.080 --> 00:42:05.920
+OK, so then, let's actually begin
+
+00:42:05.920 --> 00:42:07.350
+talking a little bit about course
+
+00:42:07.350 --> 00:42:09.650
+content, and perhaps first motivating
+
+00:42:09.650 --> 00:42:12.140
+the course a little bit, as well as
+
+00:42:12.140 --> 00:42:13.800
+saying a little bit with medical
+
+00:42:13.800 --> 00:42:14.200
+assistance.
+
+00:42:15.130 --> 00:42:15.360
+OK.
+
+00:42:22.700 --> 00:42:24.180
+So that kind of.
+
+00:42:25.110 --> 00:42:26.470
+Scientific numerical analysis.
+
+00:42:26.470 --> 00:42:28.065
+It can kind of be viewed as a part of
+
+00:42:28.065 --> 00:42:29.150
+scientific computing, but really these
+
+00:42:29.150 --> 00:42:31.050
+are all just kind of broad words.
+
+00:42:32.610 --> 00:42:33.639
+American analysis and kind of
+
+00:42:33.640 --> 00:42:35.530
+scientific computing generally concerns
+
+00:42:35.530 --> 00:42:38.650
+the study of kind of ways to compute.
+
+00:42:40.180 --> 00:42:41.770
+Solutions to numerical problems arising
+
+00:42:41.770 --> 00:42:43.030
+from the physical world.
+
+00:42:44.200 --> 00:42:45.960
+Sometimes associated with kind of
+
+00:42:45.960 --> 00:42:47.450
+problems arising from differential
+
+00:42:47.450 --> 00:42:48.690
+equations, because differential
+
+00:42:48.690 --> 00:42:50.800
+equations are used to model many of the
+
+00:42:50.800 --> 00:42:52.200
+phenomenon in the physical work.
+
+00:42:52.930 --> 00:42:56.080
+Physical world, however, I think many
+
+00:42:56.080 --> 00:42:57.830
+of us understand that the numerical
+
+00:42:57.830 --> 00:42:59.580
+techniques that will study in this
+
+00:42:59.580 --> 00:43:01.040
+course are also much more broadly
+
+00:43:01.040 --> 00:43:04.100
+applicable than just kind of PZ that
+
+00:43:04.100 --> 00:43:06.810
+can be used in a whole variety of
+
+00:43:06.810 --> 00:43:08.710
+conflicts, including just kind of data
+
+00:43:08.710 --> 00:43:12.085
+analysis questions, but also for kind
+
+00:43:12.085 --> 00:43:13.260
+of scientific problems that are not
+
+00:43:13.260 --> 00:43:14.400
+necessarily being modeled by
+
+00:43:14.400 --> 00:43:15.350
+differential equations.
+
+00:43:15.960 --> 00:43:19.590
+But some kind of examples of classical
+
+00:43:19.590 --> 00:43:21.060
+kind of scientific computing problems.
+
+00:43:21.650 --> 00:43:24.730
+Are kind of dynamics of particles in
+
+00:43:24.730 --> 00:43:27.890
+time and how they interact models for
+
+00:43:27.890 --> 00:43:29.050
+kind of fluid and air flow and
+
+00:43:29.050 --> 00:43:32.680
+engineering as well as kind of PDE
+
+00:43:32.680 --> 00:43:33.950
+constrained America optimization.
+
+00:43:33.950 --> 00:43:35.060
+So finding kind of optimal
+
+00:43:35.060 --> 00:43:38.140
+configurations of some particular
+
+00:43:38.140 --> 00:43:40.670
+object that perhaps wants to design A
+
+00:43:40.670 --> 00:43:41.860
+relative to summon environment.
+
+00:43:43.420 --> 00:43:45.560
+Kind of a different area, one that I've
+
+00:43:45.560 --> 00:43:46.090
+been interested in.
+
+00:43:46.090 --> 00:43:47.340
+This kind of quantum chemistry, which
+
+00:43:47.340 --> 00:43:49.710
+is the study of many electron systems
+
+00:43:49.710 --> 00:43:51.700
+where the shorter equation describes
+
+00:43:51.700 --> 00:43:53.530
+their interaction and the goal is to
+
+00:43:53.530 --> 00:43:54.970
+kind of understanding the probability
+
+00:43:54.970 --> 00:43:56.240
+distribution of the particles.
+
+00:43:56.990 --> 00:44:00.503
+So however kind of the core concepts of
+
+00:44:00.503 --> 00:44:02.687
+the course are really linear algebra
+
+00:44:02.687 --> 00:44:06.500
+and kind of its applications and
+
+00:44:06.500 --> 00:44:09.360
+optimization and really kind of the
+
+00:44:09.360 --> 00:44:09.950
+last.
+
+00:44:11.980 --> 00:44:14.640
+5th or so, at least in the way that it
+
+00:44:14.640 --> 00:44:16.460
+usually ends up being when I teach, it
+
+00:44:16.460 --> 00:44:19.150
+is kind of ODEs and PDEs and application
+
+00:44:19.150 --> 00:44:20.070
+of the metrics there.
+
+00:44:21.570 --> 00:44:24.530
+So these kind of basic linear algebra
+
+00:44:24.530 --> 00:44:27.325
+kernels actually underlie almost much
+
+00:44:27.325 --> 00:44:28.900
+of everything that is done.
+
+00:44:28.900 --> 00:44:31.080
+That is kind of large scale computing,
+
+00:44:31.080 --> 00:44:34.270
+so it turns out that kind of we can use
+
+00:44:34.270 --> 00:44:36.940
+matrices to model problems arising from
+
+00:44:36.940 --> 00:44:37.500
+anything.
+
+00:44:38.900 --> 00:44:40.890
+Kind of linear systems and linear least
+
+00:44:40.890 --> 00:44:42.300
+squares in the medical optimization are
+
+00:44:42.300 --> 00:44:42.780
+ubiquitous.
+
+00:44:42.780 --> 00:44:43.960
+They show up in kind of machine
+
+00:44:43.960 --> 00:44:46.100
+learning methods and data analysis, but
+
+00:44:46.100 --> 00:44:48.540
+also in just about any other area of
+
+00:44:48.540 --> 00:44:50.620
+computing that has a large data and
+
+00:44:50.620 --> 00:44:51.920
+then wants to transform it.
+
+00:44:53.290 --> 00:44:55.516
+And that actually needs to do kind of
+
+00:44:55.516 --> 00:44:57.420
+large liver, large scale computing.
+
+00:44:57.420 --> 00:44:58.950
+I think this is also reflected by the
+
+00:44:58.950 --> 00:45:00.350
+fact that if you look at, for example,
+
+00:45:00.350 --> 00:45:02.540
+the field of computer architecture or
+
+00:45:02.540 --> 00:45:04.859
+compilers, and you look at the types of
+
+00:45:04.860 --> 00:45:06.610
+benchmarks they consider, a lot of them
+
+00:45:06.610 --> 00:45:08.903
+are essentially linear algebra or kind
+
+00:45:08.903 --> 00:45:10.700
+of derived from American methods,
+
+00:45:10.700 --> 00:45:11.750
+because these have been kind of the
+
+00:45:11.750 --> 00:45:14.370
+driving force behind computing since
+
+00:45:14.370 --> 00:45:16.850
+its inception and before so kind of
+
+00:45:16.850 --> 00:45:18.980
+applied mathematics and kind of
+
+00:45:18.980 --> 00:45:20.600
+computing has always been done to
+
+00:45:20.600 --> 00:45:22.280
+fundamentally for these types of
+
+00:45:22.280 --> 00:45:23.000
+problems.
+
+00:45:23.000 --> 00:45:23.570
+It's kind of.
+
+00:45:23.650 --> 00:45:24.975
+Relatively recent thing that it's about
+
+00:45:24.975 --> 00:45:27.460
+to do all of these other things that
+
+00:45:27.460 --> 00:45:29.660
+are useful to people as a result of,
+
+00:45:29.660 --> 00:45:31.050
+like the prevalence of computers.
+
+00:45:31.850 --> 00:45:32.280
+OK.
+
+00:45:35.970 --> 00:45:36.690
+
+
+00:45:38.310 --> 00:45:41.160
+So kind of a short kind of motivating
+
+00:45:41.160 --> 00:45:45.190
+example is kind of newtons laws of
+
+00:45:45.190 --> 00:45:47.680
+mechanics and how they can be described
+
+00:45:47.680 --> 00:45:49.150
+using some number of degrees of
+
+00:45:49.150 --> 00:45:49.480
+freedom.
+
+00:45:50.100 --> 00:45:51.940
+So.
+
+00:45:53.620 --> 00:45:56.040
+An example of this is that for an up
+
+00:45:56.040 --> 00:45:58.979
+and down piston or we might require
+
+00:45:58.980 --> 00:46:00.620
+only one degree of freedom, so one
+
+00:46:00.620 --> 00:46:03.200
+variable to represent it at one
+
+00:46:03.200 --> 00:46:05.771
+particle system in 3D space requires 3
+
+00:46:05.771 --> 00:46:08.295
+degrees of freedom at two particles,
+
+00:46:08.295 --> 00:46:10.819
+system requires 6 degrees of freedom
+
+00:46:10.819 --> 00:46:13.612
+for the two locations and two particles
+
+00:46:13.612 --> 00:46:15.757
+at a fixed distance might require 5
+
+00:46:15.757 --> 00:46:17.420
+degrees of freedom, so these are
+
+00:46:17.420 --> 00:46:18.670
+essentially ways that were
+
+00:46:18.670 --> 00:46:20.700
+parameterising particular physical
+
+00:46:20.700 --> 00:46:22.730
+system with some number of variables
+
+00:46:22.730 --> 00:46:24.470
+that then allow us to model how it
+
+00:46:24.470 --> 00:46:25.220
+evolves.
+
+00:46:25.690 --> 00:46:29.410
+Or what configuration or of it would
+
+00:46:29.410 --> 00:46:31.320
+satisfy certain physical equations
+
+00:46:31.320 --> 00:46:33.580
+which might provide constraints on
+
+00:46:33.580 --> 00:46:34.400
+these degrees of freedom?
+
+00:46:35.130 --> 00:46:37.230
+So more generally, kind of if you have
+
+00:46:37.230 --> 00:46:38.560
+an end particle system, this will be
+
+00:46:38.560 --> 00:46:40.450
+great described by 300 degrees of
+
+00:46:40.450 --> 00:46:40.850
+freedom.
+
+00:46:41.460 --> 00:46:44.070
+And so kind of.
+
+00:46:44.820 --> 00:46:47.080
+One can in this domain thinking for
+
+00:46:47.080 --> 00:46:48.900
+example about trajectory's.
+
+00:46:49.460 --> 00:46:52.300
+In the configuration space.
+
+00:46:52.300 --> 00:46:55.850
+So in this R3, N and these.
+
+00:46:56.690 --> 00:46:59.750
+Will describe the free energy
+
+00:46:59.750 --> 00:47:00.590
+configuration.
+
+00:47:01.440 --> 00:47:02.190
+Which is.
+
+00:47:07.400 --> 00:47:09.530
+What we might be looking for in the
+
+00:47:09.530 --> 00:47:12.419
+kind of mechanical problem mechanical
+
+00:47:12.420 --> 00:47:13.170
+engineering problem?
+
+00:47:13.850 --> 00:47:16.730
+So there's also a variety of choices of
+
+00:47:16.730 --> 00:47:18.310
+their representation that go beyond
+
+00:47:18.310 --> 00:47:20.109
+just the number of degrees of freedom.
+
+00:47:20.110 --> 00:47:22.386
+For example, the same number of degrees
+
+00:47:22.386 --> 00:47:23.860
+of freedom might be expressed in terms
+
+00:47:23.860 --> 00:47:27.620
+of parameters or coefficients of basis
+
+00:47:27.620 --> 00:47:30.720
+functions, which are kind of
+
+00:47:30.720 --> 00:47:33.540
+representing some physical space, and
+
+00:47:33.540 --> 00:47:35.256
+the distribution of particles in that
+
+00:47:35.256 --> 00:47:35.479
+space.
+
+00:47:36.130 --> 00:47:37.380
+I see there is a question.
+
+00:47:38.650 --> 00:47:40.800
+I like I click that.
+
+00:47:42.730 --> 00:47:44.620
+Right, so here when you just five
+
+00:47:44.620 --> 00:47:46.590
+degrees of freedom, since we've fixed
+
+00:47:46.590 --> 00:47:47.240
+the distance.
+
+00:47:47.240 --> 00:47:48.920
+So in a sense, we know that.
+
+00:47:51.940 --> 00:47:53.650
+Kind of.
+
+00:47:54.630 --> 00:47:57.840
+These are at some fixed distance D and
+
+00:47:57.840 --> 00:48:00.210
+so once we've fixed the location here,
+
+00:48:00.210 --> 00:48:02.700
+there's only two degrees of freedom
+
+00:48:02.700 --> 00:48:05.610
+that are necessary to specify the
+
+00:48:05.610 --> 00:48:09.030
+location of the Third Point, which kind
+
+00:48:09.030 --> 00:48:11.110
+of seasonally in a rotational basis.
+
+00:48:11.110 --> 00:48:12.290
+So we have some angles that when you
+
+00:48:12.290 --> 00:48:12.610
+could pick.
+
+00:48:13.250 --> 00:48:15.350
+So this is one way that it kind of the
+
+00:48:15.350 --> 00:48:16.990
+presence of a constraint then reduces
+
+00:48:16.990 --> 00:48:17.590
+our system.
+
+00:48:20.280 --> 00:48:21.490
+Terms of the number degrees of freedom.
+
+00:48:22.980 --> 00:48:24.470
+OK, and that also is kind of useful
+
+00:48:24.470 --> 00:48:26.460
+terminology that's often used to
+
+00:48:26.460 --> 00:48:28.140
+describe physical problems so.
+
+00:48:30.190 --> 00:48:31.480
+A problem might be said to be very
+
+00:48:31.480 --> 00:48:33.000
+complicated if the number of degrees of
+
+00:48:33.000 --> 00:48:34.490
+freedoms in the millions or billions,
+
+00:48:34.490 --> 00:48:36.190
+which kind of is a different way of
+
+00:48:36.190 --> 00:48:37.310
+saying that you're studying a system
+
+00:48:37.310 --> 00:48:38.640
+with many particles, many different
+
+00:48:38.640 --> 00:48:40.783
+components, and it's something that
+
+00:48:40.783 --> 00:48:42.430
+might require large scale computation.
+
+00:48:45.180 --> 00:48:46.740
+Three translational to rotational.
+
+00:48:46.740 --> 00:48:48.050
+Yeah, that's a good way.
+
+00:48:50.900 --> 00:48:53.020
+You're not seeing those interesting.
+
+00:48:53.970 --> 00:48:56.520
+Hold on.
+
+00:48:58.760 --> 00:49:00.740
+It seems that I need to share in a
+
+00:49:00.740 --> 00:49:01.290
+different way.
+
+00:49:15.890 --> 00:49:17.900
+My laptop says sharing but my other
+
+00:49:17.900 --> 00:49:19.510
+laptop doesn't see me sharing, so it's
+
+00:49:19.510 --> 00:49:20.080
+not working.
+
+00:49:26.870 --> 00:49:27.610
+Australian.
+
+00:49:28.800 --> 00:49:29.610
+OK, there we go.
+
+00:49:29.610 --> 00:49:32.466
+So yeah I did all this so that this
+
+00:49:32.466 --> 00:49:34.020
+question shows up now on my on the
+
+00:49:34.020 --> 00:49:34.580
+bottom right.
+
+00:49:34.580 --> 00:49:37.020
+So this is probably were also very
+
+00:49:37.020 --> 00:49:38.500
+confused when I was talking about the
+
+00:49:38.500 --> 00:49:40.379
+high Edgar example because this was
+
+00:49:40.380 --> 00:49:41.930
+actually showing up right here.
+
+00:49:41.930 --> 00:49:44.960
+So if you do that kind of sent instant
+
+00:49:44.960 --> 00:49:46.380
+message thing through late through.
+
+00:49:46.380 --> 00:49:48.390
+Participant question shows up like
+
+00:49:48.390 --> 00:49:48.650
+this.
+
+00:49:49.330 --> 00:49:50.170
+So yes, indeed.
+
+00:49:50.170 --> 00:49:50.900
+It's kind of 3.
+
+00:49:50.900 --> 00:49:52.280
+Three translational to rotational
+
+00:49:52.280 --> 00:49:53.770
+degrees of freedom that we would have
+
+00:49:53.770 --> 00:49:55.140
+for this fourth point.
+
+00:49:57.860 --> 00:49:58.410
+OK.
+
+00:50:02.590 --> 00:50:04.230
+So to say a little bit about the
+
+00:50:04.230 --> 00:50:05.050
+course.
+
+00:50:07.340 --> 00:50:08.090
+So.
+
+00:50:09.820 --> 00:50:12.415
+Kind of the steps that will take to
+
+00:50:12.415 --> 00:50:15.110
+take to start from kind of a problem in
+
+00:50:15.110 --> 00:50:16.460
+the continuous physical space and
+
+00:50:16.460 --> 00:50:17.510
+reduce it to.
+
+00:50:19.040 --> 00:50:20.520
+Kind of a concrete problem that we can
+
+00:50:20.520 --> 00:50:21.300
+solve.
+
+00:50:23.130 --> 00:50:24.110
+Look as follows.
+
+00:50:24.110 --> 00:50:25.950
+So one thing that will be doing is
+
+00:50:25.950 --> 00:50:26.770
+discretization.
+
+00:50:30.140 --> 00:50:31.580
+Which is kind of.
+
+00:50:32.300 --> 00:50:35.100
+The mapping of some continuous function
+
+00:50:35.100 --> 00:50:35.670
+to some.
+
+00:50:36.310 --> 00:50:37.350
+Discrete domain.
+
+00:50:38.570 --> 00:50:40.590
+So for example, by imposing a grid.
+
+00:50:42.170 --> 00:50:45.310
+And then computing values that and this
+
+00:50:45.310 --> 00:50:48.080
+is discretization is a theme that kind
+
+00:50:48.080 --> 00:50:49.470
+of arises throughout the course will
+
+00:50:49.470 --> 00:50:50.973
+often want to think about continuous
+
+00:50:50.973 --> 00:50:53.620
+models as well as different ways to
+
+00:50:53.620 --> 00:50:55.874
+arrive at them from a collection of
+
+00:50:55.874 --> 00:50:56.120
+points.
+
+00:50:56.120 --> 00:50:59.317
+So interpolation innocence as well as
+
+00:50:59.317 --> 00:51:00.895
+to fit continuous models to points as
+
+00:51:00.895 --> 00:51:03.410
+well as to actually use discrete
+
+00:51:03.410 --> 00:51:05.205
+collection of numbers to model a
+
+00:51:05.205 --> 00:51:05.740
+continuous system.
+
+00:51:06.530 --> 00:51:10.500
+So one other way kind of theme or the
+
+00:51:10.500 --> 00:51:12.110
+course that will have that allows us to
+
+00:51:12.110 --> 00:51:14.570
+study complicated systems is that will
+
+00:51:14.570 --> 00:51:18.710
+map nonlinear continuous things too.
+
+00:51:19.930 --> 00:51:24.120
+Linear, so it turns out that kind of a
+
+00:51:24.120 --> 00:51:25.190
+sufficiently high dimensional in your
+
+00:51:25.190 --> 00:51:26.490
+system with suffices to describe
+
+00:51:26.490 --> 00:51:28.300
+essentially nonlinear phenomena.
+
+00:51:30.110 --> 00:51:32.720
+Another theme that will arise is that
+
+00:51:32.720 --> 00:51:35.420
+kind of complicated functions.
+
+00:51:39.130 --> 00:51:41.630
+Will be mapped to polynomials.
+
+00:51:42.850 --> 00:51:44.820
+And will work quite a bit with
+
+00:51:44.820 --> 00:51:46.370
+polynomials throughout the course.
+
+00:51:47.290 --> 00:51:50.990
+And similarly differential equations
+
+00:51:50.990 --> 00:51:52.640
+will be mapped to.
+
+00:51:53.980 --> 00:51:55.050
+Linear equations.
+
+00:51:55.800 --> 00:51:58.220
+So do you see kind of many of the
+
+00:51:58.220 --> 00:52:00.130
+subset will take to work with these
+
+00:52:00.130 --> 00:52:01.260
+complex problems.
+
+00:52:01.260 --> 00:52:02.800
+Modeling the physical world will
+
+00:52:02.800 --> 00:52:04.780
+involve essentially linearizing them,
+
+00:52:04.780 --> 00:52:07.040
+kind of making them discrete units and
+
+00:52:07.040 --> 00:52:08.415
+stuffing stuff into matrices.
+
+00:52:08.415 --> 00:52:10.390
+And finally, what will end up with our
+
+00:52:10.390 --> 00:52:12.400
+kind of matrix problems that will then
+
+00:52:12.400 --> 00:52:13.670
+need to solve accurately.
+
+00:52:13.670 --> 00:52:15.340
+And it turned, and that in the self is
+
+00:52:15.340 --> 00:52:17.530
+a massive field and a huge challenge.
+
+00:52:17.530 --> 00:52:19.530
+So much of the queries concerns this
+
+00:52:19.530 --> 00:52:21.690
+kind of core linear algebra aspect of
+
+00:52:21.690 --> 00:52:22.980
+how do you actually solve linear
+
+00:52:22.980 --> 00:52:26.010
+systems, least squares problems and.
+
+00:52:26.770 --> 00:52:28.400
+Other things involving kind of basic
+
+00:52:28.400 --> 00:52:30.450
+matrices as well as how to use those
+
+00:52:30.450 --> 00:52:32.510
+tools to actually solve more
+
+00:52:32.510 --> 00:52:33.490
+complicated problems.
+
+00:52:33.490 --> 00:52:36.660
+So we're all kind of structure will be
+
+00:52:36.660 --> 00:52:37.570
+as follows.
+
+00:52:37.570 --> 00:52:41.203
+Will start with kind of the study of
+
+00:52:41.203 --> 00:52:44.165
+error in floating point, so both kind
+
+00:52:44.165 --> 00:52:45.990
+of in the scalar and vector sense and
+
+00:52:45.990 --> 00:52:47.315
+will try to understand a little bit
+
+00:52:47.315 --> 00:52:49.266
+what it means to have a different.
+
+00:52:49.266 --> 00:52:51.086
+What are different types of sources of
+
+00:52:51.086 --> 00:52:52.670
+error in medical simulation and
+
+00:52:52.670 --> 00:52:53.755
+numerical computation?
+
+00:52:53.755 --> 00:52:56.413
+How can we bound these and analyze them
+
+00:52:56.413 --> 00:52:57.760
+to actually make sure we're computing
+
+00:52:57.760 --> 00:52:58.390
+the right thing?
+
+00:52:58.620 --> 00:53:00.450
+This is an innocence kind of the core
+
+00:53:00.450 --> 00:53:03.430
+study of medical analysis is to agree
+
+00:53:03.430 --> 00:53:07.109
+the tradeoff between kind of
+
+00:53:07.110 --> 00:53:08.130
+computational efficiency of the
+
+00:53:08.130 --> 00:53:11.270
+algorithm and kind of it's stability.
+
+00:53:11.270 --> 00:53:12.920
+So it's the degree to which it's
+
+00:53:12.920 --> 00:53:13.360
+accurate.
+
+00:53:14.090 --> 00:53:16.200
+So having kind of laid this foundation.
+
+00:53:21.160 --> 00:53:25.040
+Switch these will start talking about
+
+00:53:25.040 --> 00:53:27.660
+different types of matrix computations.
+
+00:53:30.020 --> 00:53:31.640
+So this will involve.
+
+00:53:32.550 --> 00:53:34.570
+First of all, linear systems of
+
+00:53:34.570 --> 00:53:35.220
+equations.
+
+00:53:36.480 --> 00:53:39.120
+As well as least squares problems, and
+
+00:53:39.120 --> 00:53:40.400
+then eigenvalue problems.
+
+00:53:45.250 --> 00:53:46.965
+So these are three of the major types
+
+00:53:46.965 --> 00:53:50.090
+of problems that arise in the Merkle
+
+00:53:50.090 --> 00:53:51.236
+linear algebra.
+
+00:53:51.236 --> 00:53:53.600
+So having established this kind of core
+
+00:53:53.600 --> 00:53:55.320
+in America, linear algebra will
+
+00:53:55.320 --> 00:53:56.690
+transition and I don't really have
+
+00:53:56.690 --> 00:53:57.200
+enough space.
+
+00:53:57.200 --> 00:53:59.500
+Let's continue here into.
+
+00:54:01.410 --> 00:54:03.120
+What might be probably described as
+
+00:54:03.120 --> 00:54:04.220
+numerical optimization?
+
+00:54:04.860 --> 00:54:07.700
+So we'll talk about solving non linear
+
+00:54:07.700 --> 00:54:10.210
+systems of equations as well as finding
+
+00:54:10.210 --> 00:54:12.980
+minima of nonlinear equations which are
+
+00:54:12.980 --> 00:54:14.000
+two problems that are kind of
+
+00:54:14.000 --> 00:54:15.470
+fundamentally related as we also will
+
+00:54:15.470 --> 00:54:16.210
+see in methods.
+
+00:54:17.000 --> 00:54:19.600
+And the way that will actually go about
+
+00:54:19.600 --> 00:54:21.320
+solving these problems is by reducing
+
+00:54:21.320 --> 00:54:23.300
+them to matrix computations.
+
+00:54:24.850 --> 00:54:25.420
+
+
+00:54:26.960 --> 00:54:30.670
+Then I kind of also through the use of
+
+00:54:30.670 --> 00:54:31.910
+techniques for.
+
+00:54:34.960 --> 00:54:38.000
+Numerical integration and
+
+00:54:38.000 --> 00:54:38.920
+differentiation.
+
+00:54:39.670 --> 00:54:41.210
+Will proceed to study.
+
+00:54:41.860 --> 00:54:42.500
+
+
+00:54:43.690 --> 00:54:44.510
+Who dies?
+
+00:54:45.440 --> 00:54:46.040
+And.
+
+00:54:47.410 --> 00:54:50.200
+PDS which can be phrased in terms of
+
+00:54:50.200 --> 00:54:52.538
+nonlinear optimization problems or in
+
+00:54:52.538 --> 00:54:54.045
+terms of kind of integration problems
+
+00:54:54.045 --> 00:54:57.670
+in some cases, and kind of via that
+
+00:54:57.670 --> 00:54:59.410
+route eventually reduced to matrix
+
+00:54:59.410 --> 00:55:01.560
+computations as well as the other types
+
+00:55:01.560 --> 00:55:02.480
+of discretizations.
+
+00:55:03.060 --> 00:55:04.420
+So as you see, kind of course has a
+
+00:55:04.420 --> 00:55:07.170
+structure where we start and Mr Chapter
+
+00:55:07.170 --> 00:55:09.489
+one, and it's fairly quick, is kind of
+
+00:55:09.490 --> 00:55:11.805
+basic questions of error representation
+
+00:55:11.805 --> 00:55:14.130
+of floating point numbers and things
+
+00:55:14.130 --> 00:55:14.760
+like that.
+
+00:55:14.760 --> 00:55:16.750
+Then we'll go in and talk about
+
+00:55:16.750 --> 00:55:18.120
+numerical linear algebra and this will
+
+00:55:18.120 --> 00:55:19.930
+be in a sense, I think a core part of
+
+00:55:19.930 --> 00:55:21.470
+the course and also a part that you
+
+00:55:21.470 --> 00:55:24.400
+really want to internalize, because as
+
+00:55:24.400 --> 00:55:26.030
+we will transition into later parts
+
+00:55:26.030 --> 00:55:28.010
+will make use of what we've learned in
+
+00:55:28.010 --> 00:55:30.000
+this kind of medical knowledge
+
+00:55:30.000 --> 00:55:30.430
+perception.
+
+00:55:31.080 --> 00:55:33.150
+And from that will kind of studying
+
+00:55:33.150 --> 00:55:35.160
+America optimization, which is useful
+
+00:55:35.160 --> 00:55:37.220
+both for kind of later problems, will
+
+00:55:37.220 --> 00:55:39.190
+do with differential equations, but
+
+00:55:39.190 --> 00:55:42.160
+also outside of the domain of
+
+00:55:42.160 --> 00:55:43.570
+differential equations altogether.
+
+00:55:43.570 --> 00:55:45.110
+So really problem with machine
+
+00:55:45.110 --> 00:55:45.640
+learning.
+
+00:55:47.960 --> 00:55:49.270
+Mike, for example, also look like
+
+00:55:49.270 --> 00:55:50.900
+nonlinear optimization problems and the
+
+00:55:50.900 --> 00:55:52.800
+methods that will study here are very
+
+00:55:52.800 --> 00:55:53.330
+much relevant.
+
+00:55:54.060 --> 00:55:54.820
+
+
+00:55:56.970 --> 00:55:59.770
+OK, so that's I think much of what I
+
+00:55:59.770 --> 00:56:01.560
+wanted to say about kind of the general
+
+00:56:01.560 --> 00:56:03.250
+structure of the course, so hopefully
+
+00:56:03.250 --> 00:56:04.900
+this provides some motivation of kind
+
+00:56:04.900 --> 00:56:07.160
+of why I will start with kind of low
+
+00:56:07.160 --> 00:56:08.610
+level technical topics and how it will
+
+00:56:08.610 --> 00:56:10.740
+progress throughout the semester.
+
+00:56:10.740 --> 00:56:13.095
+One challenge this semester is that I
+
+00:56:13.095 --> 00:56:16.650
+think will have 25 total lectures, so
+
+00:56:16.650 --> 00:56:18.869
+there are three of the lectures.
+
+00:56:19.790 --> 00:56:22.890
+Or is it gonna be 24?
+
+00:56:22.890 --> 00:56:24.320
+So I think three of the lectures should
+
+00:56:24.320 --> 00:56:27.560
+be exams and I think two of the
+
+00:56:27.560 --> 00:56:29.760
+lectures are cancelled.
+
+00:56:30.410 --> 00:56:33.010
+Because of the fact that we don't have
+
+00:56:33.010 --> 00:56:33.930
+spring break this semester.
+
+00:56:34.890 --> 00:56:36.190
+But overall, this means that we
+
+00:56:36.190 --> 00:56:38.160
+actually have fewer lectures than usual
+
+00:56:38.160 --> 00:56:40.490
+and in previous musters the lectures
+
+00:56:40.490 --> 00:56:41.920
+weren't necessarily enough to get
+
+00:56:41.920 --> 00:56:43.100
+through all of the course content
+
+00:56:43.100 --> 00:56:43.780
+anyway.
+
+00:56:46.120 --> 00:56:47.790
+So we'll see how this works out.
+
+00:56:49.320 --> 00:56:51.780
+I'll kind of try my best to make it at
+
+00:56:51.780 --> 00:56:53.280
+least through the end of the PDEs.
+
+00:56:54.740 --> 00:56:56.690
+But somewhere along the way, I'll have
+
+00:56:56.690 --> 00:57:00.819
+to be a little bit of brief or go into
+
+00:57:00.820 --> 00:57:02.760
+less detail will see exactly how that
+
+00:57:02.760 --> 00:57:03.800
+works out.
+
+00:57:03.800 --> 00:57:05.830
+I also have to balance that with,
+
+00:57:05.830 --> 00:57:07.540
+of course, not going too fast, which is
+
+00:57:07.540 --> 00:57:08.280
+often the challenge.
+
+00:57:13.010 --> 00:57:14.200
+But yeah, one thing is that we might
+
+00:57:14.200 --> 00:57:15.870
+not actually like every single chapter
+
+00:57:15.870 --> 00:57:17.960
+in particular like the last chapter.
+
+00:57:20.840 --> 00:57:22.520
+I think one chapter they almost never
+
+00:57:22.520 --> 00:57:23.620
+get through is like random number
+
+00:57:23.620 --> 00:57:25.460
+generators, but also things like the
+
+00:57:25.460 --> 00:57:28.316
+FFT at the very end of the course.
+
+00:57:28.316 --> 00:57:31.190
+We often don't really get to.
+
+00:57:31.190 --> 00:57:32.236
+I think last time I thought this course
+
+00:57:32.236 --> 00:57:33.530
+we did not get to that part.
+
+00:57:33.530 --> 00:57:35.170
+Although maybe I said just a few words
+
+00:57:35.170 --> 00:57:36.220
+about in the last lecture.
+
+00:57:36.960 --> 00:57:39.480
+So this semester maybe we even don't
+
+00:57:39.480 --> 00:57:41.480
+quite get that far, but I think that's
+
+00:57:41.480 --> 00:57:42.700
+kind of the upper bound to a really
+
+00:57:42.700 --> 00:57:42.840
+good.
+
+00:57:45.530 --> 00:57:46.160
+
+
+00:57:47.330 --> 00:57:47.710
+OK.
+
+00:57:51.790 --> 00:57:54.220
+So let's then kind of start talking a
+
+00:57:54.220 --> 00:57:56.030
+little bit about the formalism of
+
+00:57:56.030 --> 00:57:58.160
+problems so.
+
+00:57:58.790 --> 00:57:59.820
+Our goal.
+
+00:58:01.030 --> 00:58:04.520
+Kind of generally might be to be.
+
+00:58:05.070 --> 00:58:06.920
+Given some input which say is represented
+
+00:58:06.920 --> 00:58:10.890
+by a vector to compute and output given
+
+00:58:10.890 --> 00:58:13.260
+by the function f applied to x.
+
+00:58:14.160 --> 00:58:14.840
+So.
+
+00:58:17.410 --> 00:58:19.062
+Kind of their one question we might ask
+
+00:58:19.062 --> 00:58:20.580
+is one of those that were problem
+
+00:58:20.580 --> 00:58:24.040
+actually a reasonable one, and in the
+
+00:58:24.040 --> 00:58:25.670
+numerical analysis this is known as the
+
+00:58:25.670 --> 00:58:27.530
+notion of ill posededness or well
+
+00:58:27.530 --> 00:58:31.273
+posedness so we'll say the problem is
+
+00:58:31.273 --> 00:58:32.139
+well posed.
+
+00:58:33.140 --> 00:58:33.850
+If.
+
+00:58:36.740 --> 00:58:37.770
+The solution.
+
+00:58:38.740 --> 00:58:40.560
+Exists and is unique.
+
+00:58:45.750 --> 00:58:47.150
+As well as.
+
+00:58:48.670 --> 00:58:49.260
+
+
+00:58:50.630 --> 00:58:54.940
+It is continuous.
+
+00:58:57.810 --> 00:58:58.630
+With respect.
+
+00:59:01.360 --> 00:59:02.150
+To the input.
+
+00:59:04.330 --> 00:59:04.990
+
+
+00:59:05.980 --> 00:59:07.100
+An otherwise
+
+00:59:07.780 --> 00:59:08.780
+I will say.
+
+00:59:09.540 --> 00:59:11.330
+The problem is ill post.
+
+00:59:13.520 --> 00:59:16.060
+So in if we think of kind of our
+
+00:59:16.060 --> 00:59:18.410
+problem as a function mapping inputs to
+
+00:59:18.410 --> 00:59:21.230
+outputs, if it's a function that already
+
+00:59:21.230 --> 00:59:23.770
+means a bunch of nice things, nice
+
+00:59:23.770 --> 00:59:24.105
+things.
+
+00:59:24.105 --> 00:59:25.440
+So assuming that we can evaluate the
+
+00:59:25.440 --> 00:59:27.320
+function, the solution exists and is
+
+00:59:27.320 --> 00:59:27.700
+unique.
+
+00:59:29.350 --> 00:59:31.760
+But we might not really know whether
+
+00:59:31.760 --> 00:59:35.480
+still it's well posed, but we need the
+
+00:59:35.480 --> 00:59:37.771
+other thing we need for it to be well
+
+00:59:37.771 --> 00:59:40.710
+posed is for it to be continuous and.
+
+00:59:42.550 --> 00:59:43.790
+This is enforced,
+
+00:59:45.260 --> 00:59:48.080
+for example, by making sure that the
+
+00:59:48.080 --> 00:59:49.160
+derivative of x
+
+00:59:50.710 --> 00:59:52.600
+It is never Infinity, so it's never a
+
+00:59:52.600 --> 00:59:53.200
+nascent.
+
+00:59:53.970 --> 00:59:55.420
+So as long as our function doesn't have
+
+00:59:55.420 --> 00:59:57.150
+such asymptotes, it will be continuous
+
+00:59:57.150 --> 01:00:00.180
+everywhere, and that's good enough.
+
+01:00:00.180 --> 01:00:03.780
+And within here we.
+
+01:00:05.390 --> 01:00:07.400
+Somewhere implicitly we have in mind
+
+01:00:07.400 --> 01:00:10.660
+that domain, so here we picked.
+
+01:00:11.560 --> 01:00:13.260
+x to come from R^n.
+
+01:00:13.260 --> 01:00:15.730
+So R^n is kind of real vectors of
+
+01:00:15.730 --> 01:00:19.133
+dimension n, but we might restrict our
+
+01:00:19.133 --> 01:00:22.074
+domain and only consider some subset of
+
+01:00:22.074 --> 01:00:25.670
+kind of vectors x within R^n and then
+
+01:00:25.670 --> 01:00:27.650
+ask if all these of these conditions
+
+01:00:27.650 --> 01:00:29.080
+apply over that domain.
+
+01:00:29.710 --> 01:00:32.347
+We might also ask you what is kind of
+
+01:00:32.347 --> 01:00:34.320
+is it is this problem well posed for a
+
+01:00:34.320 --> 01:00:35.960
+particular X, so we just have a single
+
+01:00:35.960 --> 01:00:38.523
+input in mind and the question is kind
+
+01:00:38.523 --> 01:00:40.400
+of still largely makes sense.
+
+01:00:41.210 --> 01:00:43.270
+So this kind of domain for which we're
+
+01:00:43.270 --> 01:00:45.920
+considering a problem is important, and
+
+01:00:45.920 --> 01:00:47.740
+this also makes sense from a computer
+
+01:00:47.740 --> 01:00:48.700
+science perspective.
+
+01:00:48.700 --> 01:00:50.750
+So in a sense you want to specify
+
+01:00:50.750 --> 01:00:53.130
+ultimately an algorithm for computing F
+
+01:00:53.130 --> 01:00:55.000
+of X, and your algorithm should be able
+
+01:00:55.000 --> 01:00:58.210
+to handle a variety of inputs X coming
+
+01:00:58.210 --> 01:00:58.980
+from some domain.
+
+01:01:00.320 --> 01:01:02.490
+And it should work for all X in the
+
+01:01:02.490 --> 01:01:05.190
+domain and you kind of want to if you
+
+01:01:05.190 --> 01:01:06.449
+are considering error, you want to
+
+01:01:06.450 --> 01:01:08.610
+analyze the worst case behavior of your
+
+01:01:08.610 --> 01:01:10.470
+algorithm over potential inputs.
+
+01:01:10.470 --> 01:01:13.330
+So it kind of some worst case input
+
+01:01:13.330 --> 01:01:14.580
+will force you to divide by zero.
+
+01:01:14.580 --> 01:01:16.120
+That's something you want to know.
+
+01:01:17.650 --> 01:01:22.000
+OK, so that is kind of a notion of well
+
+01:01:22.000 --> 01:01:23.410
+posed or ill posed.
+
+01:01:23.410 --> 01:01:25.240
+Is there any questions or am I missing
+
+01:01:25.240 --> 01:01:26.200
+any shot?
+
+01:01:35.100 --> 01:01:38.220
+It seems there's questions, but I missed
+
+01:01:38.220 --> 01:01:38.470
+them.
+
+01:01:40.990 --> 01:01:42.605
+Or it seems that there was just a cat on
+
+01:01:42.605 --> 01:01:43.120
+the keyboard.
+
+01:01:43.120 --> 01:01:44.849
+There was a question about the lectures
+
+01:01:44.850 --> 01:01:47.901
+being recorded, so the lectures will be
+
+01:01:47.901 --> 01:01:49.810
+recorded and the recordings will be
+
+01:01:49.810 --> 01:01:51.070
+placed on media space.
+
+01:01:53.030 --> 01:01:54.300
+Encourage you also use this instant
+
+01:01:54.300 --> 01:01:56.730
+message thing for questions because
+
+01:01:56.730 --> 01:01:58.040
+like I don't really get notifications
+
+01:01:58.040 --> 01:01:59.920
+for this in chat, so the question is
+
+01:01:59.920 --> 01:02:01.525
+actually to do with something urgent.
+
+01:02:01.525 --> 01:02:03.960
+I won't be able to answer it and I can
+
+01:02:03.960 --> 01:02:05.570
+relate to the cat on the keyboard
+
+01:02:05.570 --> 01:02:06.225
+problem.
+
+01:02:06.225 --> 01:02:08.310
+You might see my cat not too long from
+
+01:02:08.310 --> 01:02:08.500
+now.
+
+01:02:10.720 --> 01:02:11.150
+OK.
+
+01:02:12.460 --> 01:02:14.950
+So let's then talk about error.
+
+01:02:16.600 --> 01:02:17.490
+So.
+
+01:02:18.720 --> 01:02:20.730
+For error there is.
+
+01:02:22.170 --> 01:02:22.840
+Kind of.
+
+01:02:24.200 --> 01:02:25.960
+So kind of the most basic thing we can
+
+01:02:25.960 --> 01:02:28.780
+talk about is say, why is the true
+
+01:02:28.780 --> 01:02:32.970
+solution to our problem of computing f
+
+01:02:32.970 --> 01:02:33.910
+for an input X.
+
+01:02:34.760 --> 01:02:35.980
+But instead.
+
+01:02:38.260 --> 01:02:42.040
+computed y hat right
+
+01:02:42.040 --> 01:02:43.110
+so some other.
+
+01:02:44.850 --> 01:02:46.380
+Some other result, perhaps?
+
+01:02:46.380 --> 01:02:48.000
+We computed it because we applied f
+
+01:02:48.000 --> 01:02:50.120
+inaccurately, so we have instead applied
+
+01:02:50.120 --> 01:02:50.650
+f hat.
+
+01:02:52.250 --> 01:02:55.760
+So then our absolute error.
+
+01:02:56.730 --> 01:02:57.980
+And as we'll soon know, this is the
+
+01:02:57.980 --> 01:02:59.860
+absolute forward error.
+
+01:03:02.310 --> 01:03:05.180
+Will be given what by the difference
+
+01:03:05.180 --> 01:03:05.900
+between
+
+01:03:06.750 --> 01:03:07.530
+y
+
+01:03:08.140 --> 01:03:09.340
+and... y hat and y.
+
+01:03:10.980 --> 01:03:13.840
+Often I get the question of does the
+
+01:03:13.840 --> 01:03:15.710
+sign matter and also note that there is
+
+01:03:15.710 --> 01:03:16.360
+a sign right?
+
+01:03:16.360 --> 01:03:18.915
+So what matters that there is that
+
+01:03:18.915 --> 01:03:20.866
+there is a sign what the sign is.
+
+01:03:20.866 --> 01:03:22.010
+I myself can't remember.
+
+01:03:22.010 --> 01:03:23.480
+I just have to look up on the slide.
+
+01:03:23.480 --> 01:03:25.490
+So whether it's y minus, y hat or
+
+01:03:25.490 --> 01:03:26.615
+y hat minus
+
+01:03:26.615 --> 01:03:28.080
+y doesn't matter as long as you're
+
+01:03:28.080 --> 01:03:29.930
+consistent about in your analysis.
+
+01:03:29.930 --> 01:03:31.760
+But the sign does matter and.
+
+01:03:33.400 --> 01:03:35.700
+The magnitude of the error is
+
+01:03:35.700 --> 01:03:38.850
+something, so sometimes you will see
+
+01:03:38.850 --> 01:03:41.780
+discussion of error and it has implied
+
+01:03:41.780 --> 01:03:43.455
+in it that we're talking about
+
+01:03:43.455 --> 01:03:43.860
+magnitude.
+
+01:03:44.640 --> 01:03:46.749
+Other times will say explicitly that we
+
+01:03:46.750 --> 01:03:47.995
+thought would want to consider the
+
+01:03:47.995 --> 01:03:49.380
+magnitude of the error, but within
+
+01:03:49.380 --> 01:03:51.784
+analysis itself often we want to
+
+01:03:51.784 --> 01:03:53.235
+consider error not just in magnitude
+
+01:03:53.235 --> 01:03:54.340
+but also in sign.
+
+01:03:54.340 --> 01:03:55.980
+One reason for this is that we might
+
+01:03:55.980 --> 01:03:57.310
+have multiple errors and they could
+
+01:03:57.310 --> 01:03:58.570
+cancel and.
+
+01:03:59.260 --> 01:04:00.860
+Cancellation of errors can actually
+
+01:04:00.860 --> 01:04:02.060
+kind of result in a better error
+
+01:04:02.060 --> 01:04:02.460
+analysis.
+
+01:04:02.460 --> 01:04:04.020
+You see that in fact everything is OK.
+
+01:04:05.020 --> 01:04:05.540
+
+
+01:04:06.850 --> 01:04:07.230
+OK.
+
+01:04:07.830 --> 01:04:11.730
+So that's our absolute error and I see
+
+01:04:11.730 --> 01:04:12.300
+your question.
+
+01:04:18.370 --> 01:04:19.200
+
+
+01:04:19.910 --> 01:04:20.690
+They won't be in the.
+
+01:04:20.690 --> 01:04:22.155
+I'm not sure what the campus page
+
+01:04:22.155 --> 01:04:25.050
+actually is, but yeah, I will be
+
+01:04:25.050 --> 01:04:26.372
+posting them on media space.
+
+01:04:26.372 --> 01:04:28.485
+I think I actually have to post them on
+
+01:04:28.485 --> 01:04:30.970
+media space for DRES accommodation
+
+01:04:30.970 --> 01:04:31.460
+purposes.
+
+01:04:33.360 --> 01:04:34.500
+I haven't worked with media space
+
+01:04:34.500 --> 01:04:37.680
+before and what I actually did in, for
+
+01:04:37.680 --> 01:04:39.050
+example the previous semesters post all
+
+01:04:39.050 --> 01:04:41.010
+lectures on my personal website.
+
+01:04:41.010 --> 01:04:43.216
+If there's issues with media space, I
+
+01:04:43.216 --> 01:04:45.462
+will also do that and then just post
+
+01:04:45.462 --> 01:04:48.000
+the links as well as links to the
+
+01:04:48.000 --> 01:04:50.035
+transcript directly on the course web
+
+01:04:50.035 --> 01:04:50.720
+page.
+
+01:04:50.720 --> 01:04:54.250
+But I for now will try to just use
+
+01:04:54.250 --> 01:04:55.940
+media space and I'll update the relate
+
+01:04:55.940 --> 01:04:57.350
+web page with the media space link.
+
+01:04:58.560 --> 01:05:00.280
+So hopefully that works, but I did hear
+
+01:05:00.280 --> 01:05:01.570
+that there's been problems with media
+
+01:05:01.570 --> 01:05:02.510
+space in the past.
+
+01:05:03.240 --> 01:05:05.370
+So we'll hopefully that won't be the
+
+01:05:05.370 --> 01:05:05.830
+case for us.
+
+01:05:07.100 --> 01:05:08.560
+Yep, OK.
+
+01:05:11.690 --> 01:05:15.120
+So that's the absolute error the.
+
+01:05:15.930 --> 01:05:18.180
+Relative error in this case, again,
+
+01:05:18.180 --> 01:05:20.170
+referring to the forward error, will
+
+01:05:20.170 --> 01:05:24.020
+simply be Delta y / y.
+
+01:05:25.390 --> 01:05:26.940
+Or in particular with the magnitude of
+
+01:05:26.940 --> 01:05:27.260
+y.
+
+01:05:28.260 --> 01:05:28.960
+
+
+01:05:34.010 --> 01:05:35.030
+Yeah, I'm surprised they don't have a
+
+01:05:35.030 --> 01:05:36.320
+magnitude in my slide.
+
+01:06:45.430 --> 01:06:45.850
+Soon I will.
+
+01:06:45.870 --> 01:06:46.310
+All set up.
+
+01:06:49.460 --> 01:06:50.950
+And that will be again posted,
+
+01:06:50.950 --> 01:06:51.420
+unrelated.
+
+01:06:53.280 --> 01:06:56.120
+OK, so that's the kind of notions of
+
+01:06:56.120 --> 01:06:58.620
+absolute error and relative error, and
+
+01:06:58.620 --> 01:07:00.080
+these are fairly standard.
+
+01:07:01.470 --> 01:07:03.740
+So let's talk a little bit about where
+
+01:07:03.740 --> 01:07:05.530
+error can actually come from.
+
+01:07:05.530 --> 01:07:09.550
+So one basic source of error is
+
+01:07:09.550 --> 01:07:11.070
+representation of numbers.
+
+01:07:12.680 --> 01:07:13.320
+
+
+01:07:14.340 --> 01:07:17.310
+And what will focus on in this course
+
+01:07:17.310 --> 01:07:18.820
+is notion of floating point
+
+01:07:18.820 --> 01:07:19.520
+representations.
+
+01:07:21.560 --> 01:07:22.970
+Like this which.
+
+01:07:24.330 --> 01:07:28.700
+So kind of a more basic example is that
+
+01:07:28.700 --> 01:07:29.050
+we.
+
+01:07:33.960 --> 01:07:35.060
+Cannot represent.
+
+01:07:37.580 --> 01:07:41.350
+Pie on a computer, right to we simply
+
+01:07:41.350 --> 01:07:43.780
+can't store all the digits necessary to
+
+01:07:43.780 --> 01:07:46.220
+represent an irrational number.
+
+01:07:47.180 --> 01:07:49.380
+So typically also.
+
+01:07:51.140 --> 01:07:52.510
+Kind of in practice.
+
+01:07:54.430 --> 01:07:57.410
+We're limited to 32 or 64 bit
+
+01:07:57.410 --> 01:07:59.250
+representations of floating point.
+
+01:07:59.250 --> 01:08:01.280
+Actually, floating point is become also
+
+01:08:01.280 --> 01:08:02.330
+a hot topic.
+
+01:08:02.330 --> 01:08:04.140
+Research wise more recently because.
+
+01:08:06.090 --> 01:08:09.490
+These days there's also 8 and 16 bit.
+
+01:08:10.160 --> 01:08:11.800
+Floating point representations
+
+01:08:11.800 --> 01:08:14.750
+motivated by the desire to do low
+
+01:08:14.750 --> 01:08:17.719
+precision computation, which in the
+
+01:08:17.720 --> 01:08:20.250
+field of machine learning is been shown
+
+01:08:20.250 --> 01:08:22.720
+to be kind of Bible, while
+
+01:08:22.720 --> 01:08:24.319
+traditionally actually much you kind of
+
+01:08:24.320 --> 01:08:25.360
+scientific computing in American
+
+01:08:25.360 --> 01:08:27.950
+Alesis, you assume double precision and
+
+01:08:27.950 --> 01:08:29.439
+you do everything in double precision
+
+01:08:29.440 --> 01:08:31.729
+or double precision means you use 64
+
+01:08:31.730 --> 01:08:33.480
+bit representations of numbers.
+
+01:08:33.480 --> 01:08:34.965
+So you kind of use in a sense of
+
+01:08:34.965 --> 01:08:35.940
+precision you can get.
+
+01:08:37.530 --> 01:08:40.190
+Typically because kind of working with
+
+01:08:40.190 --> 01:08:43.360
+that's a problem that will talk about
+
+01:08:43.360 --> 01:08:45.560
+you actually want a lot of accuracy and
+
+01:08:45.560 --> 01:08:46.900
+you're trying to get a lot of accuracy.
+
+01:08:48.480 --> 01:08:49.080
+
+
+01:08:50.950 --> 01:08:54.240
+So are we will kind of talk about is
+
+01:08:54.240 --> 01:08:58.090
+floating point numbers which try to
+
+01:08:58.090 --> 01:09:01.690
+maintain insofar as possible a uniform
+
+01:09:01.690 --> 01:09:02.330
+precision.
+
+01:09:08.640 --> 01:09:09.380
+
+
+01:09:11.340 --> 01:09:12.820
+For any given number that they're
+
+01:09:12.820 --> 01:09:16.310
+representing an in the sense of kind of
+
+01:09:16.310 --> 01:09:19.160
+floating point really is scientific
+
+01:09:19.160 --> 01:09:19.660
+notation.
+
+01:09:21.210 --> 01:09:24.520
+So its scientific computing course, and
+
+01:09:24.520 --> 01:09:27.030
+one thing that we all learned, for
+
+01:09:27.030 --> 01:09:28.990
+example in chemistry, is just how
+
+01:09:28.990 --> 01:09:30.816
+important these scientific notation is.
+
+01:09:30.816 --> 01:09:33.800
+One we want to carry through a given.
+
+01:09:35.320 --> 01:09:37.370
+Level of accuracy, specifically by
+
+01:09:37.370 --> 01:09:38.720
+scientific notation, I mean, we might
+
+01:09:38.720 --> 01:09:42.310
+say that we have 2.103
+
+01:09:43.910 --> 01:09:45.310
+Moles per something, right?
+
+01:09:45.310 --> 01:09:47.320
+So kind of much like you do in
+
+01:09:47.320 --> 01:09:47.720
+chemistry.
+
+01:09:47.720 --> 01:09:48.660
+We do this calculations.
+
+01:09:48.660 --> 01:09:52.120
+You tried to make a measurement which
+
+01:09:52.120 --> 01:09:54.940
+gives you some amount of accuracy and
+
+01:09:54.940 --> 01:09:56.346
+then you try to carry through
+
+01:09:56.346 --> 01:09:58.440
+calculations that done maintain that
+
+01:09:58.440 --> 01:09:59.690
+number of digits of accuracy.
+
+01:10:01.210 --> 01:10:03.020
+And what we're really doing there, and
+
+01:10:03.020 --> 01:10:04.350
+what would happen is that you might
+
+01:10:04.350 --> 01:10:05.939
+make a measurement, and you might
+
+01:10:05.940 --> 01:10:06.840
+measure something in liters.
+
+01:10:06.840 --> 01:10:08.033
+But then you might talk about something
+
+01:10:08.033 --> 01:10:10.330
+in terms of like moles, right where the
+
+01:10:10.330 --> 01:10:12.000
+exponent now is completely different,
+
+01:10:12.000 --> 01:10:16.523
+so this might be 2.13 * 10 to 23, or 10
+
+01:10:16.523 --> 01:10:17.536
+to the minus 23.
+
+01:10:17.536 --> 01:10:18.806
+And that doesn't matter.
+
+01:10:18.806 --> 01:10:20.390
+We still have the same relative
+
+01:10:20.390 --> 01:10:23.720
+accuracy, so we still have kind of
+
+01:10:23.720 --> 01:10:26.100
+error in this 4th 4th bit.
+
+01:10:26.100 --> 01:10:28.580
+So in that sense, if it notation has
+
+01:10:28.580 --> 01:10:30.330
+uniform precision, no matter what the
+
+01:10:30.330 --> 01:10:31.560
+magnitude of the number is.
+
+01:10:31.800 --> 01:10:33.260
+So even if it's kind of some tiny
+
+01:10:33.260 --> 01:10:35.374
+fraction talking about something at the
+
+01:10:35.374 --> 01:10:37.905
+scale of electrons or huge number,
+
+01:10:37.905 --> 01:10:39.620
+talking about something at the scale of
+
+01:10:39.620 --> 01:10:40.610
+galaxies.
+
+01:10:41.990 --> 01:10:43.660
+We can represent them all with the same
+
+01:10:43.660 --> 01:10:45.850
+type of notation and similarly floating
+
+01:10:45.850 --> 01:10:48.510
+point will essentially kind of provide
+
+01:10:48.510 --> 01:10:50.270
+a way... provide a data structure for
+
+01:10:50.270 --> 01:10:51.040
+scientific notation.
+
+01:10:52.030 --> 01:10:52.680
+
+
+01:10:53.940 --> 01:10:56.550
+Right and so.
+
+01:10:57.160 --> 01:10:58.640
+Given x
+
+01:10:58.640 --> 01:10:59.840
+we'll say that the floating point
+
+01:10:59.840 --> 01:11:02.460
+representation is FL of X.
+
+01:11:03.600 --> 01:11:08.040
+And generally, for most choices of X
+
+01:11:08.040 --> 01:11:11.050
+and will be precise about that soon.
+
+01:11:11.050 --> 01:11:13.104
+The relative error of this
+
+01:11:13.104 --> 01:11:15.045
+representation or the magnitude of the relative
+
+
+01:11:15.045 --> 01:11:16.505
+error to be precise.
+
+01:11:16.505 --> 01:11:20.260
+So FL of X -- X divided by kind of the
+
+01:11:20.260 --> 01:11:22.939
+right answer, which is just X, will be
+
+01:11:22.940 --> 01:11:26.370
+less than or equal to some fixed
+
+01:11:26.370 --> 01:11:29.040
+precision epsilon and will soon learn
+
+01:11:29.040 --> 01:11:32.348
+that this epsilon, so the
+
+01:11:32.348 --> 01:11:33.009
+representation.
+
+01:11:34.100 --> 01:11:36.560
+Error of our floating point system is
+
+01:11:36.560 --> 01:11:36.720
+called.
+
+01:11:36.720 --> 01:11:38.820
+Machine epsilon is kind of critical for
+
+01:11:38.820 --> 01:11:39.730
+analysis of.
+
+01:11:41.140 --> 01:11:43.550
+The propagation of error due to
+
+01:11:43.550 --> 01:11:44.970
+floating point representation within
+
+01:11:44.970 --> 01:11:45.690
+computations.
+
+01:11:47.130 --> 01:11:47.720
+
+
+01:11:49.040 --> 01:11:49.810
+So.
+
+01:11:51.950 --> 01:11:52.600
+
+
+01:11:53.270 --> 01:11:55.750
+Floating point brings up I related
+
+01:11:55.750 --> 01:11:58.290
+notion which although in no means is
+
+01:11:58.290 --> 01:12:00.330
+restricted to floating point, which is
+
+01:12:00.330 --> 01:12:01.560
+propagated data error.
+
+01:12:02.450 --> 01:12:03.170
+So.
+
+01:12:04.740 --> 01:12:07.760
+Often were not given the true input X
+
+01:12:07.760 --> 01:12:09.570
+to some degree, but some approximation
+
+01:12:09.570 --> 01:12:10.830
+of it so.
+
+01:12:12.140 --> 01:12:13.750
+We're given some X hat which is close
+
+01:12:13.750 --> 01:12:14.340
+to axe.
+
+01:12:15.140 --> 01:12:18.410
+And then we get the error F of X at
+
+01:12:18.410 --> 01:12:19.350
+minus F of X.
+
+01:12:20.120 --> 01:12:23.280
+So even if we compute exactly, we might
+
+01:12:23.280 --> 01:12:24.880
+be computing it for a slightly
+
+01:12:24.880 --> 01:12:26.230
+incorrect input.
+
+01:12:26.230 --> 01:12:29.450
+An example of this is maybe our input
+
+01:12:29.450 --> 01:12:29.720
+was.
+
+01:12:29.720 --> 01:12:33.190
+I'm measurement that we made by I on in
+
+01:12:33.190 --> 01:12:35.440
+chemistry using some kind of measure.
+
+01:12:35.440 --> 01:12:38.770
+So there we had some error and then we
+
+01:12:38.770 --> 01:12:40.160
+ultimately input a number into the
+
+01:12:40.160 --> 01:12:41.780
+computer, which is some approximation
+
+01:12:41.780 --> 01:12:43.738
+and that has some number of digits of
+
+01:12:43.738 --> 01:12:43.999
+accuracy.
+
+01:12:44.000 --> 01:12:45.265
+Everything beyond those digits of
+
+01:12:45.265 --> 01:12:46.240
+accuracy is garbage.
+
+01:12:46.240 --> 01:12:48.580
+Maybe will claim with zero, but in fact
+
+01:12:48.580 --> 01:12:49.760
+we don't know anything about it.
+
+01:12:50.130 --> 01:12:52.268
+So that would be an example of
+
+01:12:52.268 --> 01:12:53.690
+propagated data error.
+
+01:12:53.690 --> 01:12:56.160
+Another kind of innocence.
+
+01:12:56.160 --> 01:12:57.797
+We're thinking about propagated data
+
+01:12:57.797 --> 01:12:58.090
+error.
+
+01:12:58.090 --> 01:12:59.780
+Is that maybe we have some real numbers
+
+01:12:59.780 --> 01:13:01.170
+and as soon as we put them into
+
+01:13:01.170 --> 01:13:03.530
+computer we need to do FL of the real
+
+01:13:03.530 --> 01:13:04.095
+number right?
+
+01:13:04.095 --> 01:13:06.016
+So that will introduce a little bit of
+
+01:13:06.016 --> 01:13:07.905
+floating point error and that's kind of
+
+01:13:07.905 --> 01:13:09.770
+error to our original input and we
+
+01:13:09.770 --> 01:13:11.300
+could ask how that propagates.
+
+01:13:11.300 --> 01:13:13.400
+But floating Point will then also
+
+01:13:13.400 --> 01:13:15.308
+perhaps cause further errors during the
+
+01:13:15.308 --> 01:13:17.385
+computation, and we can then maybe need
+
+01:13:17.385 --> 01:13:18.990
+to think about how those propagate
+
+01:13:18.990 --> 01:13:19.740
+throughout the computation.
+
+01:13:21.690 --> 01:13:22.280
+
+
+01:13:23.200 --> 01:13:28.250
+But in general will be focused on two
+
+01:13:28.250 --> 01:13:31.040
+types of error, so kind of if we
+
+01:13:31.040 --> 01:13:33.710
+consider the computed out of X versus
+
+01:13:33.710 --> 01:13:36.710
+the true F of X, the error the main
+
+01:13:36.710 --> 01:13:39.200
+sources of error are rounding error,
+
+01:13:39.200 --> 01:13:41.930
+which is errors due to floating point.
+
+01:13:42.580 --> 01:13:45.470
+Anne truncation error, which is errors
+
+01:13:45.470 --> 01:13:48.530
+due to approximating F.
+
+01:13:50.180 --> 01:13:51.090
+Without that.
+
+01:13:55.610 --> 01:13:56.330
+
+
+01:13:58.050 --> 01:13:59.940
+So in a sense, this is due to using
+
+01:13:59.940 --> 01:14:02.410
+some approximate algorithm.
+
+01:14:04.240 --> 01:14:05.750
+One example is that instead of
+
+01:14:05.750 --> 01:14:07.030
+computing a function, we might compute
+
+01:14:07.030 --> 01:14:09.810
+a Taylor expansion, which is accurate
+
+01:14:09.810 --> 01:14:12.230
+to in some sense.
+
+01:14:13.710 --> 01:14:16.350
+And so whenever we then kind of make
+
+01:14:16.350 --> 01:14:19.660
+approximation to a function and try to
+
+01:14:19.660 --> 01:14:21.036
+compute the result and compare it to
+
+01:14:21.036 --> 01:14:23.280
+the true solution, this will refer to
+
+01:14:23.280 --> 01:14:24.420
+as a truncation error.
+
+01:14:25.230 --> 01:14:28.540
+So in that sense, this is method versus
+
+01:14:28.540 --> 01:14:30.560
+the true solution, assuming the method
+
+01:14:30.560 --> 01:14:34.127
+is computed with exact arithmetic in
+
+01:14:34.127 --> 01:14:37.040
+exact arithmetic, is a common phrase
+
+01:14:37.040 --> 01:14:38.963
+and kind of medical analysis to say
+
+01:14:38.963 --> 01:14:41.405
+without the use of floating point, that
+
+01:14:41.405 --> 01:14:43.730
+is without rounding error.
+
+01:14:46.050 --> 01:14:47.700
+So again, a rounding error being.
+
+01:14:48.390 --> 01:14:51.320
+A fellow X -- X right there.
+
+01:14:52.370 --> 01:14:55.860
+Let's see I miss any questions on this
+
+01:14:55.860 --> 01:14:56.440
+chat.
+
+01:14:57.260 --> 01:14:57.860
+Not yet.
+
+01:14:59.610 --> 01:15:01.350
+OK, so these are the basic sources of
+
+01:15:01.350 --> 01:15:03.485
+error that will analyze any questions
+
+01:15:03.485 --> 01:15:04.120
+so far.
+
+01:15:10.180 --> 01:15:11.700
+OK, let's continue.
+
+01:15:15.090 --> 01:15:16.750
+So forward error.
+
+01:15:16.750 --> 01:15:17.710
+We've already talked about.
+
+01:15:17.710 --> 01:15:21.090
+A little bit will be the.
+
+01:15:22.440 --> 01:15:24.300
+Error in what we compute, so this is
+
+01:15:24.300 --> 01:15:27.440
+kind of again app out of X -- F of X.
+
+01:15:28.410 --> 01:15:29.090
+
+
+01:15:31.530 --> 01:15:33.280
+But a different notion that is
+
+01:15:33.280 --> 01:15:35.440
+important in the medical analysis and
+
+01:15:35.440 --> 01:15:38.790
+often can be used to bound the error
+
+01:15:38.790 --> 01:15:40.360
+when there's not a bounding forward
+
+01:15:40.360 --> 01:15:42.940
+error or to obtain a better bound is a
+
+01:15:42.940 --> 01:15:44.250
+notion of backward error.
+
+01:15:45.180 --> 01:15:48.750
+So with backward error, what we're
+
+01:15:48.750 --> 01:15:50.970
+actually going to ask is.
+
+01:15:51.690 --> 01:15:53.190
+So suppose we computed.
+
+01:15:54.180 --> 01:15:54.740
+
+
+01:15:58.150 --> 01:16:01.150
+Out parallax, so really we took an
+
+01:16:01.150 --> 01:16:03.230
+input and we computed the wrong thing,
+
+01:16:03.230 --> 01:16:06.440
+but did we compute the right answer for
+
+01:16:06.440 --> 01:16:07.730
+some perturbed input?
+
+01:16:08.440 --> 01:16:09.130
+So.
+
+01:16:12.790 --> 01:16:13.990
+Is there some?
+
+01:16:14.570 --> 01:16:15.530
+Ex, hab.
+
+01:16:16.920 --> 01:16:17.740
+For which.
+
+01:16:19.390 --> 01:16:20.470
+F of X hat.
+
+01:16:20.470 --> 01:16:23.619
+So the true function applied to X hat
+
+01:16:23.620 --> 01:16:25.920
+is equal to a FedEx.
+
+01:16:27.110 --> 01:16:27.810
+
+
+01:16:28.600 --> 01:16:30.070
+And if so.
+
+01:16:31.210 --> 01:16:33.400
+X hat minus X is.
+
+01:16:34.710 --> 01:16:35.370
+
+
+01:16:36.860 --> 01:16:38.420
+Our backward air.
+
+01:16:43.460 --> 01:16:44.940
+So this is saying that.
+
+01:16:46.490 --> 01:16:48.480
+We actually computed the true solution
+
+01:16:48.480 --> 01:16:49.920
+to a slightly perturbed problem.
+
+01:16:50.660 --> 01:16:53.750
+And this is in a sense, a certification
+
+01:16:53.750 --> 01:16:56.550
+that we computed this equality because
+
+01:16:56.550 --> 01:16:59.030
+typically what were given as input has
+
+01:16:59.030 --> 01:17:01.360
+some degree of inaccuracy, right?
+
+01:17:01.360 --> 01:17:02.940
+So we talked about this data
+
+01:17:02.940 --> 01:17:04.053
+propagation error.
+
+01:17:04.053 --> 01:17:05.915
+So for example, it could be a.
+
+01:17:05.915 --> 01:17:08.220
+So if we can derive a backward error
+
+01:17:08.220 --> 01:17:08.950
+bound that says.
+
+01:17:11.130 --> 01:17:13.060
+We've got so many digits of accuracy
+
+01:17:13.060 --> 01:17:14.710
+for this type of input.
+
+01:17:16.220 --> 01:17:18.874
+In now, in the sense that the digits of
+
+01:17:18.874 --> 01:17:21.320
+accuracy are digits of accuracy on your
+
+01:17:21.320 --> 01:17:23.390
+input, so kind of.
+
+01:17:23.940 --> 01:17:26.780
+We might have computed the solution to
+
+01:17:26.780 --> 01:17:30.150
+an input that was kind of erroneous in
+
+01:17:30.150 --> 01:17:31.709
+the 4th digit, so a 4th digit
+
+01:17:31.710 --> 01:17:32.868
+perturbation to your input would have
+
+01:17:32.868 --> 01:17:34.040
+given would have given the result that
+
+01:17:34.040 --> 01:17:34.480
+you compute.
+
+01:17:35.120 --> 01:17:37.240
+And this type of analysis can be useful
+
+01:17:37.240 --> 01:17:40.780
+in demonstrating that the error small.
+
+01:17:42.130 --> 01:17:45.280
+There's a good picture to kind of keep
+
+01:17:45.280 --> 01:17:47.512
+track of what's going on, which I have
+
+01:17:47.512 --> 01:17:50.780
+here, so we start with kind of some
+
+01:17:50.780 --> 01:17:51.855
+true value X.
+
+01:17:51.855 --> 01:17:54.100
+We compute the true up of X, so that's
+
+01:17:54.100 --> 01:17:56.416
+here, and so the difference between F
+
+01:17:56.416 --> 01:17:59.850
+of X and the head of X, which is our
+
+01:17:59.850 --> 01:18:03.030
+kind of inaccurate algorithm for this
+
+01:18:03.030 --> 01:18:06.330
+problem, it is going to be the forward
+
+01:18:06.330 --> 01:18:07.240
+error.
+
+01:18:07.240 --> 01:18:09.871
+However, if we can also find an X hat
+
+01:18:09.871 --> 01:18:12.739
+for which the true F applied to X hat.
+
+01:18:12.820 --> 01:18:14.219
+Is equal to?
+
+01:18:14.220 --> 01:18:15.120
+How to vex?
+
+01:18:15.120 --> 01:18:17.190
+So the main equation to keep in mind
+
+01:18:17.190 --> 01:18:20.132
+here being apart of X need to equal X
+
+01:18:20.132 --> 01:18:24.320
+hat, then X -- X hat is our backward
+
+01:18:24.320 --> 01:18:24.630
+error.
+
+01:18:26.140 --> 01:18:27.980
+So typically done in the medical
+
+01:18:27.980 --> 01:18:30.840
+analysis one we want to show that an
+
+01:18:30.840 --> 01:18:35.229
+algorithm is stable, which is typically
+
+01:18:35.230 --> 01:18:38.420
+implies that the algorithm does not
+
+01:18:38.420 --> 01:18:40.310
+have too much forward air or backward
+
+01:18:40.310 --> 01:18:40.730
+error.
+
+01:18:42.870 --> 01:18:45.340
+Which can be analyzed, kind of in a
+
+01:18:45.340 --> 01:18:46.680
+perturbative way, or.
+
+01:18:47.400 --> 01:18:48.640
+Somewhat differently, depending on the
+
+01:18:48.640 --> 01:18:51.420
+exact setting, but generally we're
+
+01:18:51.420 --> 01:18:52.900
+looking to bound one of these two types
+
+01:18:52.900 --> 01:18:54.740
+of errors as a way to certify the fact
+
+01:18:54.740 --> 01:18:55.960
+that our algorithms computing right
+
+01:18:55.960 --> 01:18:56.090
+now.
+
+01:18:59.390 --> 01:18:59.730
+OK.
+
+01:19:01.420 --> 01:19:03.070
+Any questions about decorator?
+
+01:19:16.990 --> 01:19:18.390
+I think there is a question.
+
+01:19:18.390 --> 01:19:19.900
+So one question is what is the
+
+01:19:19.900 --> 01:19:21.770
+difference between these two values?
+
+01:19:22.340 --> 01:19:25.850
+So here this is, we've applied.
+
+01:19:27.280 --> 01:19:30.180
+A different function to the true input,
+
+01:19:30.180 --> 01:19:31.210
+so here kind of.
+
+01:19:31.870 --> 01:19:34.200
+I've had this some approximation of F.
+
+01:19:34.980 --> 01:19:37.630
+And here we apply computed the true
+
+01:19:37.630 --> 01:19:39.540
+function on a perturbed input.
+
+01:19:39.540 --> 01:19:42.120
+So here ex had some approximation or is
+
+01:19:42.120 --> 01:19:43.030
+nearby X.
+
+01:19:43.830 --> 01:19:44.480
+
+
+01:19:45.870 --> 01:19:46.380
+Yeah.
+
+01:19:50.200 --> 01:19:52.030
+OK, great any other questions.
+
+01:19:54.500 --> 01:19:56.560
+Right, so one question.
+
+01:19:56.560 --> 01:19:58.030
+Is this actually always true?
+
+01:19:58.030 --> 01:20:00.250
+Yeah, so.
+
+01:20:02.920 --> 01:20:04.640
+To bond the backward error, we need to
+
+01:20:04.640 --> 01:20:06.250
+be able to find something like this,
+
+01:20:06.250 --> 01:20:08.090
+but whether we're actually able to is a
+
+01:20:08.090 --> 01:20:08.650
+different question.
+
+01:20:08.650 --> 01:20:09.960
+It could be that such an accident does
+
+01:20:09.960 --> 01:20:12.945
+not exist, and we might not have an
+
+01:20:12.945 --> 01:20:14.070
+error bound in that case.
+
+01:20:14.670 --> 01:20:18.130
+But for in many cases, especially in
+
+01:20:18.130 --> 01:20:20.770
+linear algebra, when there is kind of
+
+01:20:20.770 --> 01:20:24.370
+in a sense of 1 to one mapping, one can
+
+01:20:24.370 --> 01:20:27.890
+guarantee that the session had exists
+
+01:20:27.890 --> 01:20:29.870
+and that it's not too far away, and so
+
+01:20:29.870 --> 01:20:31.140
+your backward error is nice and
+
+01:20:31.140 --> 01:20:34.810
+bounded, but it's certainly not going
+
+01:20:34.810 --> 01:20:36.420
+to be always true for an arbitrary
+
+01:20:36.420 --> 01:20:36.710
+problem.
+
+01:20:38.210 --> 01:20:39.490
+Good question as well.
+
+01:20:40.450 --> 01:20:40.840
+OK.
+
+01:20:43.320 --> 01:20:45.060
+Feel free to post more questions.
+
+01:20:45.860 --> 01:20:46.910
+But let's go.
+
+01:20:47.630 --> 01:20:53.830
+OK, so the other one important notion
+
+01:20:53.830 --> 01:20:56.510
+that relating to error.
+
+01:20:58.460 --> 01:20:59.500
+That's kind of a function of the
+
+01:20:59.500 --> 01:21:02.330
+problem and not the actual algorithm is
+
+01:21:02.330 --> 01:21:02.890
+condition.
+
+01:21:03.970 --> 01:21:06.760
+And let me emphasize that this is a
+
+01:21:06.760 --> 01:21:10.120
+function of a problem, so if I'm not up
+
+01:21:10.120 --> 01:21:10.410
+yet.
+
+01:21:12.450 --> 01:21:15.350
+So the condition number is a measure of
+
+01:21:15.350 --> 01:21:17.760
+how much a perturbation to the input
+
+01:21:17.760 --> 01:21:19.880
+can be amplified.
+
+01:21:22.430 --> 01:21:25.850
+Once we actually compute F so.
+
+01:21:26.540 --> 01:21:28.790
+In particular, if we consider the
+
+01:21:28.790 --> 01:21:31.730
+absolute condition number, so say Kappa
+
+01:21:31.730 --> 01:21:32.950
+of F.
+
+01:21:34.340 --> 01:21:37.770
+And let's also say of F for the input
+
+01:21:37.770 --> 01:21:38.240
+X.
+
+01:21:39.080 --> 01:21:39.860
+So.
+
+01:21:41.410 --> 01:21:44.990
+That will be the limit of some
+
+01:21:44.990 --> 01:21:47.310
+perturbation Delta X.
+
+01:21:47.970 --> 01:21:51.330
+Going to zero out of.
+
+01:21:52.330 --> 01:21:54.260
+F of X plus Delta X.
+
+01:21:55.360 --> 01:21:58.600
+Minus F of X divided by Delta X.
+
+01:22:00.730 --> 01:22:01.410
+
+
+01:22:02.250 --> 01:22:03.390
+There's a question going back to back
+
+01:22:03.390 --> 01:22:06.580
+with error regarding how to calculate X
+
+01:22:06.580 --> 01:22:07.220
+hat.
+
+01:22:09.320 --> 01:22:10.170
+So.
+
+01:22:11.040 --> 01:22:13.080
+Typically what you could do, for
+
+01:22:13.080 --> 01:22:14.600
+example is.
+
+01:22:14.600 --> 01:22:16.090
+Well, one way is you could if he could
+
+01:22:16.090 --> 01:22:18.530
+bond the forward error and that
+
+01:22:18.530 --> 01:22:19.310
+innocence.
+
+01:22:20.000 --> 01:22:22.610
+Is the difference that you need to?
+
+01:22:23.360 --> 01:22:24.720
+Kind of compute.
+
+01:22:26.410 --> 01:22:28.580
+So you can adjust the input to take
+
+01:22:28.580 --> 01:22:30.220
+that into account, and this is easy.
+
+01:22:30.220 --> 01:22:31.834
+If, for example, we are computing a
+
+01:22:31.834 --> 01:22:33.635
+linear function, so then we could say
+
+01:22:33.635 --> 01:22:34.860
+we have this difference.
+
+01:22:34.860 --> 01:22:36.590
+So we just need to increase our input
+
+01:22:36.590 --> 01:22:37.840
+by that amount and we can directly
+
+01:22:37.840 --> 01:22:38.370
+compute it.
+
+01:22:38.370 --> 01:22:39.862
+And this is a function of.
+
+01:22:39.862 --> 01:22:41.240
+This is due to the function being
+
+01:22:41.240 --> 01:22:44.460
+linear, but if it's not then this is no
+
+01:22:44.460 --> 01:22:46.080
+longer guaranteed in the sense we need
+
+01:22:46.080 --> 01:22:48.280
+to apply the reciprocal of the
+
+01:22:48.280 --> 01:22:48.520
+function.
+
+01:22:49.930 --> 01:22:52.710
+But typically we will kind of show that
+
+01:22:52.710 --> 01:22:54.913
+there exists some perturbation to the
+
+01:22:54.913 --> 01:22:56.627
+input for which what we've computed is
+
+01:22:56.627 --> 01:22:57.340
+actually correct.
+
+01:22:57.340 --> 01:23:00.190
+One reason that this might help is that
+
+01:23:00.190 --> 01:23:02.950
+if the source of error in our
+
+01:23:02.950 --> 01:23:04.905
+truncation error of our algorithm is
+
+01:23:04.905 --> 01:23:07.346
+actually due to some change in the
+
+01:23:07.346 --> 01:23:09.310
+input or something we computed, we can
+
+01:23:09.310 --> 01:23:11.098
+kind of model that as a change in the
+
+01:23:11.098 --> 01:23:11.310
+input.
+
+01:23:12.820 --> 01:23:14.550
+It could be that our algorithm starts
+
+01:23:14.550 --> 01:23:16.630
+by just approximating the input and
+
+01:23:16.630 --> 01:23:17.642
+then computing something.
+
+01:23:17.642 --> 01:23:19.200
+Then I just have a simple bound in the
+
+01:23:19.200 --> 01:23:20.190
+backward error, right?
+
+01:23:20.190 --> 01:23:22.930
+So we've actually computed look at that
+
+01:23:22.930 --> 01:23:24.760
+first approximation, and I say actually
+
+01:23:24.760 --> 01:23:26.990
+changed X by a little bit, and so this
+
+01:23:26.990 --> 01:23:28.520
+changes the result.
+
+01:23:29.890 --> 01:23:32.750
+Yeah, there's lots of other questions.
+
+01:23:32.750 --> 01:23:33.930
+Let me try to keep up with everything.
+
+01:23:35.450 --> 01:23:37.210
+Is there any example of that we need to
+
+01:23:37.210 --> 01:23:38.360
+compute backward error?
+
+01:23:39.960 --> 01:23:41.380
+Not exactly sure I understand the
+
+01:23:41.380 --> 01:23:41.750
+question.
+
+01:23:46.420 --> 01:23:47.030
+So.
+
+01:23:48.450 --> 01:23:50.430
+Typically we would be interested in
+
+01:23:50.430 --> 01:23:52.330
+bounding backward error, so we don't
+
+01:23:52.330 --> 01:23:54.560
+necessarily want to compute what with.
+
+01:23:54.560 --> 01:23:56.760
+The error is for a particular input, we
+
+01:23:56.760 --> 01:24:00.536
+want to just say that for any input in
+
+01:24:00.536 --> 01:24:04.490
+this domain are what we would compute.
+
+01:24:04.490 --> 01:24:06.636
+It will be close to the true solution
+
+01:24:06.636 --> 01:24:10.042
+in the sense that we will have computed
+
+01:24:10.042 --> 01:24:11.630
+something for a slightly perturbed
+
+01:24:11.630 --> 01:24:12.646
+problem, typically.
+
+01:24:12.646 --> 01:24:15.200
+So typically this is not something we
+
+01:24:15.200 --> 01:24:17.140
+kind of computing the program, but do
+
+01:24:17.140 --> 01:24:19.070
+offline and theoretical analysis.
+
+01:24:19.440 --> 01:24:20.740
+So perhaps that.
+
+01:24:22.090 --> 01:24:23.460
+Answer the question, but let me know if
+
+01:24:23.460 --> 01:24:24.270
+it does not quite.
+
+01:24:26.010 --> 01:24:27.820
+But if there's multiple X hats that
+
+01:24:27.820 --> 01:24:28.940
+satisfy the condition.
+
+01:24:34.470 --> 01:24:36.390
+It's somewhat context dependent.
+
+01:24:38.550 --> 01:24:40.986
+If that's actually the case, we often
+
+01:24:40.986 --> 01:24:42.330
+not really be interested in the
+
+01:24:42.330 --> 01:24:44.110
+backward error analysis or not be doing
+
+01:24:44.110 --> 01:24:44.500
+it.
+
+01:24:44.500 --> 01:24:46.510
+So again, like this often will be done
+
+01:24:46.510 --> 01:24:48.000
+in linear algebra when you have a
+
+01:24:48.000 --> 01:24:50.580
+linear mapping, but.
+
+01:24:52.190 --> 01:24:54.940
+So you could you might be interested in
+
+01:24:54.940 --> 01:24:56.830
+just showing that there exists an X hat
+
+01:24:56.830 --> 01:24:59.250
+that's kind of close by and that would
+
+01:24:59.250 --> 01:25:00.542
+suffice for a certification.
+
+01:25:00.542 --> 01:25:03.730
+That kind of the answer is accurate, so
+
+01:25:03.730 --> 01:25:05.630
+I guess typically it is showing that
+
+01:25:05.630 --> 01:25:07.770
+one exists, but in most contexts only
+
+01:25:07.770 --> 01:25:10.930
+one will exist, at least in the context
+
+01:25:10.930 --> 01:25:11.750
+of what we want to do.
+
+01:25:11.750 --> 01:25:12.950
+That for stability analysis.
+
+01:25:16.540 --> 01:25:18.370
+How do we know errors due to Exeter?
+
+01:25:18.370 --> 01:25:20.330
+I've had given that there is an error.
+
+01:25:22.320 --> 01:25:24.202
+Right, so in reality, when computing
+
+01:25:24.202 --> 01:25:25.692
+you don't really know, right?
+
+01:25:25.692 --> 01:25:28.975
+So you get some error and you're not
+
+01:25:28.975 --> 01:25:30.720
+really sure that's why we kind of need
+
+01:25:30.720 --> 01:25:32.540
+to go back and potentially do analysis
+
+01:25:32.540 --> 01:25:34.050
+and understand what are the different
+
+01:25:34.050 --> 01:25:36.492
+sources of error, but kind of when
+
+01:25:36.492 --> 01:25:37.100
+actually computing stuff.
+
+01:25:37.100 --> 01:25:38.700
+Everything looks alike and there was
+
+01:25:38.700 --> 01:25:40.036
+general the only way you would actually
+
+01:25:40.036 --> 01:25:41.990
+get a backward error is if you could
+
+01:25:41.990 --> 01:25:43.830
+apply like the inverse of the function
+
+01:25:43.830 --> 01:25:45.780
+exactly.
+
+01:25:45.780 --> 01:25:47.340
+Then you would be able to get like a
+
+01:25:47.340 --> 01:25:48.290
+concrete X hat.
+
+01:25:48.290 --> 01:25:50.600
+That's often not the case, although
+
+01:25:50.600 --> 01:25:52.260
+perhaps if we're kind of testing an
+
+01:25:52.260 --> 01:25:52.880
+algorithm.
+
+01:25:53.050 --> 01:25:55.580
+They were testing algorithm for solving
+
+01:25:55.580 --> 01:25:57.030
+a linear system of equations.
+
+01:25:57.030 --> 01:25:58.950
+If we had an exact algorithm for
+
+01:25:58.950 --> 01:26:01.808
+computing matrix vector product then we
+
+01:26:01.808 --> 01:26:05.620
+could compute given some solution X hat
+
+01:26:05.620 --> 01:26:08.486
+that's approximate to ax equals B.
+
+01:26:08.486 --> 01:26:12.000
+We could compute a * X hat and that
+
+01:26:12.000 --> 01:26:13.980
+will give us a baby hat and then we can
+
+01:26:13.980 --> 01:26:15.577
+look at the difference between B&amp;B had
+
+01:26:15.577 --> 01:26:17.250
+to estimate the backward error.
+
+01:26:17.250 --> 01:26:19.609
+So that's one common example of 1.
+
+01:26:19.610 --> 01:26:20.670
+This is actually computable.
+
+01:26:21.760 --> 01:26:22.510
+
+
+01:26:25.670 --> 01:26:27.170
+Right and then I'm getting lots of
+
+01:26:27.170 --> 01:26:27.540
+condition.
+
+01:26:27.540 --> 01:26:29.560
+Number of questions that I think are
+
+01:26:29.560 --> 01:26:32.230
+going to answer in a second anyway.
+
+01:26:33.170 --> 01:26:33.820
+
+
+01:26:34.460 --> 01:26:37.070
+Right, so this Delta is nothing to do
+
+01:26:37.070 --> 01:26:39.910
+with the Dirac Delta, so if you like we
+
+01:26:39.910 --> 01:26:41.540
+can switch notation.
+
+01:26:42.830 --> 01:26:43.780
+And use.
+
+01:26:44.720 --> 01:26:45.910
+The step of Delta X.
+
+01:26:46.720 --> 01:26:47.980
+Although that doctor can also be
+
+01:26:47.980 --> 01:26:49.220
+confused about those things.
+
+01:26:52.440 --> 01:26:56.110
+Right, and so indeed this is simply.
+
+01:26:57.100 --> 01:26:59.770
+A prime of X the derivative at X.
+
+01:27:01.550 --> 01:27:02.620
+And so let's.
+
+01:27:03.910 --> 01:27:06.988
+And I will talk about this condition
+
+01:27:06.988 --> 01:27:08.700
+number in the condition of our matrix
+
+01:27:08.700 --> 01:27:10.030
+shortly.
+
+01:27:10.030 --> 01:27:11.170
+So in particular, the relative
+
+01:27:11.170 --> 01:27:12.160
+condition number.
+
+01:27:14.350 --> 01:27:16.280
+Will be related to the Matrix
+
+01:27:16.280 --> 01:27:18.240
+condition, number matrix condition
+
+01:27:18.240 --> 01:27:18.730
+number.
+
+01:27:19.370 --> 01:27:20.140
+Is.
+
+01:27:21.410 --> 01:27:23.200
+Kind of a special thing because we just
+
+01:27:23.200 --> 01:27:24.826
+say that this is a condition number of
+
+01:27:24.826 --> 01:27:26.140
+matrix, but conditioning you should
+
+01:27:26.140 --> 01:27:27.928
+think about this is the conditioning of
+
+01:27:27.928 --> 01:27:28.810
+a problem.
+
+01:27:28.810 --> 01:27:30.743
+So for example, I might ask you what
+
+01:27:30.743 --> 01:27:32.029
+the conditioning of matrix vector
+
+01:27:32.030 --> 01:27:33.693
+product is with respect to
+
+01:27:33.693 --> 01:27:34.954
+perturbations in input X.
+
+01:27:34.954 --> 01:27:36.790
+So the vector that we're multiplying by
+
+01:27:36.790 --> 01:27:38.564
+where I might ask you what is the
+
+01:27:38.564 --> 01:27:40.862
+conditioning of the linear system with
+
+01:27:40.862 --> 01:27:44.480
+respect to perturbations to the right
+
+01:27:44.480 --> 01:27:46.850
+hand side we had in both cases.
+
+01:27:46.850 --> 01:27:48.780
+Actually the answer will be that the
+
+01:27:48.780 --> 01:27:51.080
+conditioning conditioning is the matrix
+
+01:27:51.080 --> 01:27:52.000
+condition number.
+
+01:27:52.360 --> 01:27:53.803
+So the matrix condition number is kind
+
+01:27:53.803 --> 01:27:54.620
+of the salute.
+
+01:27:54.620 --> 01:27:57.485
+The right conditioning bound for a
+
+01:27:57.485 --> 01:27:59.910
+number of important linear algebra
+
+01:27:59.910 --> 01:28:02.825
+problems, and we'll talk about that in
+
+01:28:02.825 --> 01:28:03.750
+a lot of detail.
+
+01:28:05.210 --> 01:28:06.310
+In a lecture or two.
+
+01:28:08.570 --> 01:28:09.280
+Pump pump.
+
+01:28:16.930 --> 01:28:18.640
+OK, I think I've answered most of the
+
+01:28:18.640 --> 01:28:19.470
+questions.
+
+01:28:19.470 --> 01:28:21.130
+Let's perhaps go on a little bit and
+
+01:28:21.130 --> 01:28:22.920
+talk and kind of define the condition
+
+01:28:22.920 --> 01:28:25.010
+number and stop there for today.
+
+01:28:25.680 --> 01:28:27.870
+So let's talk a little bit about the
+
+01:28:27.870 --> 01:28:29.310
+intuition of what's going on here.
+
+01:28:32.090 --> 01:28:33.940
+So we're kind of saying that.
+
+01:28:33.940 --> 01:28:36.880
+Suppose we have some function F.
+
+01:28:37.600 --> 01:28:38.320
+
+
+01:28:39.620 --> 01:28:40.260
+And.
+
+01:28:41.180 --> 01:28:43.220
+No, maybe it's not changing too much.
+
+01:28:43.870 --> 01:28:45.000
+And then maybe all of a suddenly
+
+01:28:45.000 --> 01:28:46.950
+changes a lot and then maybe not too
+
+01:28:46.950 --> 01:28:47.440
+much again.
+
+01:28:49.350 --> 01:28:50.400
+So if I look.
+
+01:28:52.410 --> 01:28:54.500
+And say OK, maybe access here.
+
+01:28:55.570 --> 01:28:57.550
+Then if I change XA little bit.
+
+01:28:58.640 --> 01:29:00.130
+So by Delta X.
+
+01:29:01.040 --> 01:29:01.740
+
+
+01:29:03.240 --> 01:29:05.510
+App will not change too much right?
+
+01:29:05.510 --> 01:29:08.840
+So in that sense, at this point F as.
+
+01:29:10.750 --> 01:29:15.020
+If I look over here and if X happens to
+
+01:29:15.020 --> 01:29:17.060
+be here, and if I change it slightly,
+
+01:29:17.060 --> 01:29:18.900
+then up of exchange is drastically so.
+
+01:29:18.900 --> 01:29:20.680
+In that sense we have an ill
+
+01:29:20.680 --> 01:29:21.570
+conditioned problem.
+
+01:29:21.570 --> 01:29:25.316
+So here is we would say ill
+
+01:29:25.316 --> 01:29:25.649
+conditioned.
+
+01:29:27.090 --> 01:29:28.560
+More generally.
+
+01:29:30.300 --> 01:29:32.535
+We might say that the condition number
+
+01:29:32.535 --> 01:29:37.240
+of F is given as the maximum of over X.
+
+01:29:38.470 --> 01:29:40.900
+In some domain so.
+
+01:29:41.500 --> 01:29:44.460
+Let's say our domain is the real
+
+01:29:44.460 --> 01:29:44.960
+numbers.
+
+01:29:45.580 --> 01:29:46.650
+Of this
+
+01:29:48.370 --> 01:29:49.470
+Kappa Alpha vax
+
+01:29:50.850 --> 01:29:51.780
+So of all this stuff.
+
+01:29:52.350 --> 01:29:54.110
+So generally we want to consider the
+
+01:29:54.110 --> 01:29:55.960
+maximum possible amplification over a
+
+01:29:55.960 --> 01:29:57.840
+set of inputs and so for example, for
+
+01:29:57.840 --> 01:29:59.390
+the matrix condition number there must
+
+01:29:59.390 --> 01:29:59.770
+be that.
+
+01:30:01.960 --> 01:30:03.160
+OK.
+
+01:30:04.300 --> 01:30:06.550
+And then for the relative condition
+
+01:30:06.550 --> 01:30:09.650
+number, we now simply want to say that
+
+01:30:09.650 --> 01:30:12.470
+Kappa F of X will be.
+
+01:30:13.090 --> 01:30:16.500
+In a limit of kind of reprobation going
+
+01:30:16.500 --> 01:30:17.270
+to 0.
+
+01:30:18.120 --> 01:30:19.210
+And now we look.
+
+01:30:20.790 --> 01:30:24.490
+Not at the absolute error, but at the
+
+01:30:24.490 --> 01:30:25.780
+relative error.
+
+01:30:27.690 --> 01:30:30.630
+And similarly for the perturbation, we
+
+01:30:30.630 --> 01:30:32.920
+consider it to be a relative
+
+01:30:32.920 --> 01:30:34.430
+perturbation in terms of magnitude.
+
+01:30:35.160 --> 01:30:37.410
+So now we have relative perturbation in
+
+01:30:37.410 --> 01:30:39.739
+output divided by relative perturbation
+
+01:30:39.740 --> 01:30:41.760
+input and again.
+
+01:30:41.760 --> 01:30:44.720
+So maybe this one will Kappa abs.
+
+01:30:47.220 --> 01:30:50.980
+So our cap here for F over some domain
+
+01:30:50.980 --> 01:30:54.696
+will be again the maximum of over X and
+
+01:30:54.696 --> 01:30:57.120
+some domain, let's call it denial of
+
+01:30:57.120 --> 01:30:58.020
+Kappa of.
+
+01:30:58.630 --> 01:31:00.920
+F of X and so this relative condition
+
+01:31:00.920 --> 01:31:02.793
+number will primarily be the condition
+
+01:31:02.793 --> 01:31:04.160
+number we're interested in just
+
+01:31:04.160 --> 01:31:06.112
+relative error is primarily the error
+
+01:31:06.112 --> 01:31:07.660
+we're actually interested in practice.
+
+01:31:08.220 --> 01:31:08.990
+
+
+01:31:09.620 --> 01:31:11.410
+Right, and so this kind of conditioning
+
+01:31:11.410 --> 01:31:12.810
+is something that will now study for
+
+01:31:12.810 --> 01:31:15.426
+every problem that we will consider an
+
+01:31:15.426 --> 01:31:17.810
+will innocence, quantify how difficult
+
+01:31:17.810 --> 01:31:19.950
+it is to contain an accurate answer to
+
+01:31:19.950 --> 01:31:22.930
+a particular problem, and just how much
+
+01:31:22.930 --> 01:31:25.510
+we can get perturbed in the solution.
+
+01:31:25.510 --> 01:31:27.123
+If the input is slightly wrong.
+
+01:31:27.123 --> 01:31:30.370
+So if the problem is really badly
+
+01:31:30.370 --> 01:31:31.780
+conditioned, it becomes kind of
+
+01:31:31.780 --> 01:31:33.453
+incomputable and actually formally.
+
+01:31:33.453 --> 01:31:35.145
+If the condition number goes to
+
+01:31:35.145 --> 01:31:36.940
+Infinity then innocence F is
+
+01:31:36.940 --> 01:31:37.720
+discontinuous.
+
+01:31:37.720 --> 01:31:39.580
+So right that the derivative is
+
+01:31:39.580 --> 01:31:40.010
+Infinity.
+
+01:31:40.250 --> 01:31:41.730
+And in that sense, the problem is built
+
+01:31:41.730 --> 01:31:42.110
+post.
+
+01:31:42.770 --> 01:31:45.490
+OK, so with that I will stop.
+
+01:31:47.360 --> 01:31:50.040
+And perhaps I'm still happy to answer
+
+01:31:50.040 --> 01:31:52.610
+some questions, but we should stop an
+
+01:31:52.610 --> 01:31:53.240
+interesting time.
+
+01:31:55.810 --> 01:31:57.310
+Is there any assignments or quizzes you
+
+01:31:57.310 --> 01:31:57.895
+after this class?
+
+01:31:57.895 --> 01:32:00.200
+There is a quiz for you all do for next
+
+01:32:00.200 --> 01:32:01.980
+Wednesday by the start of class, which
+
+01:32:01.980 --> 01:32:03.360
+is just about the course policies.
+
+01:32:04.070 --> 01:32:06.600
+So please complete that and keep an eye
+
+01:32:06.600 --> 01:32:09.430
+out for further assignments on the web
+
+01:32:09.430 --> 01:32:10.760
+page an on Piazza.
+
+01:32:11.460 --> 01:32:12.970
+And again, office hours will post
+
+01:32:12.970 --> 01:32:15.110
+shortly after class this afternoon.
+
+01:32:16.670 --> 01:32:17.360
+Thanks for trying.
+
+01:32:21.020 --> 01:32:21.910
+Yes, this Wednesday.
+
+01:32:23.570 --> 01:32:25.140
+To order this class.
+
+01:32:27.950 --> 01:32:30.830
+In the past I've had to sign a form, I
+
+01:32:30.830 --> 01:32:33.290
+presume like now that's more like an
+
+01:32:33.290 --> 01:32:34.080
+email.
+
+01:32:34.080 --> 01:32:35.160
+Actually, I'm not sure.
+
+01:32:35.980 --> 01:32:37.160
+But it should be possible.
+
+01:32:38.480 --> 01:32:40.730
+There was a question of why do we take
+
+01:32:40.730 --> 01:32:41.940
+a Max over D.
+
+01:32:41.940 --> 01:32:44.390
+So in general we want to consider
+
+01:32:44.390 --> 01:32:46.660
+maximizing over the input domain, so
+
+01:32:46.660 --> 01:32:48.610
+for whatever actually want to consider
+
+01:32:48.610 --> 01:32:50.082
+what is the condition number.
+
+01:32:50.082 --> 01:32:52.189
+So for the matrix condition number, for
+
+01:32:52.190 --> 01:32:53.910
+example, we want to consider perhaps
+
+01:32:53.910 --> 01:32:55.040
+any non 0X.
+
+01:32:55.600 --> 01:32:58.330
+Might be a reasonable input, but in
+
+01:32:58.330 --> 01:32:59.540
+some other cases maybe you want to
+
+01:32:59.540 --> 01:33:01.250
+restrict X to be from some vector
+
+01:33:01.250 --> 01:33:01.800
+space.
+
+01:33:01.800 --> 01:33:04.430
+Or maybe we have a particular kind of
+
+01:33:04.430 --> 01:33:05.850
+interval on the real line.
+
+01:33:05.850 --> 01:33:07.720
+All of those are reasonable inputs.
+
+01:33:12.200 --> 01:33:13.800
+Absolute value certainly could have
+
+01:33:13.800 --> 01:33:14.550
+been missed.
+
+01:33:14.550 --> 01:33:16.010
+Yeah, we probably should have.
+
+01:33:25.250 --> 01:33:27.770
+In general, the condition number is a
+
+01:33:27.770 --> 01:33:28.630
+positive number.
+
+01:33:29.480 --> 01:33:30.040
+So.
+
+01:33:31.860 --> 01:33:33.160
+It doesn't hurt to take absolute values
+
+01:33:33.160 --> 01:33:33.550
+everywhere.
+
+01:33:41.660 --> 01:33:42.610
+Thanks for the correction.
+
+
